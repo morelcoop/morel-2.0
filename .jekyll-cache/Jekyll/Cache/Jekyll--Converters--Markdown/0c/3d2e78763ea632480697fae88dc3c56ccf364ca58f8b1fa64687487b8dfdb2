@@ -1,0 +1,39 @@
+I"P<h1 id="layouts-scheme">Layouts scheme</h1>
+
+<ul>
+  <li>default
+    <ul>
+      <li>list
+        <ul>
+          <li>repository</li>
+          <li>author</li>
+          <li>editorial</li>
+          <li>city</li>
+        </ul>
+      </li>
+      <li>index</li>
+      <li>page
+        <ul>
+          <li>blog</li>
+          <li>post</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="day-log">Day log</h1>
+
+<p>Author: febr3s <a href="mailto:eduardofebresm@gmail.com">eduardofebresm@gmail.com</a>
+Date:   Tue Sep 14 18:55:15 2021 -0400</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>footer y promocion pasado a _includes
+</code></pre></div></div>
+
+<p>commit f5abf958c703f1cd0ef869b43b8fd59aa80a9df7
+Author: febr3s <a href="mailto:eduardofebresm@gmail.com">eduardofebresm@gmail.com</a>
+Date:   Tue Sep 14 18:16:50 2021 -0400</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>arreglado frontend del footer e iniciada migracion a _includes con nav-bar.html
+</code></pre></div></div>
+:ET

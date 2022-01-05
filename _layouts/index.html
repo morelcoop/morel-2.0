@@ -1,0 +1,33 @@
+---
+layout: default
+---
+        <h1 class="index">{{ page.tagline }}</h1>
+        <!--lista 1 -->
+        <div class="row obras">
+            <h2 class="index">Última vitrina</h2>
+        </div>
+        
+        <!--lista 2 -->
+        <div class="row obras">
+            <p class="index">Por autores que nacieron o murieron en enero</p>
+        </div>
+        {% include ultima-vitrina.html %}
+
+        <!--lista 3 -->
+        <div class="row obras">
+            <h2 class="index">Tu obra de la suerte</h2>
+        </div>
+        {% include book-sample.html %}
+
+        <!--lista 4 -->
+        <div class="row obras">
+            <h2 class="index">Obras por categoria</h2>
+        </div>
+        {% include chriteria.html %}
+
+        <!--lista 5 -->
+        <div class="row obras">
+            <h2 class="index">Ocho obras al azar</h2>
+        </div>
+        {% include lista-todas-sample.html %}
+       

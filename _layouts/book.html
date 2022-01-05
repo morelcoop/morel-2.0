@@ -1,0 +1,56 @@
+---
+layout: default
+---
+        <h1 class="book">{{ page.title }}</h1>
+
+        <div class="obra-dia sombra">
+            <div class="ficha-container" style="">
+                <div class="ficha-title">
+                    <h2>
+                        {{ page.title }}
+                            <a class="morel a2a_dd" href="https://www.addtoany.com/share">
+                            <i class="fa fa-share-alt" style="padding: 0em 0em;">
+                                <script async src="https://static.addtoany.com/menu/page.js"></script>
+                            </i></a><br>
+                    </h2>
+                </div>
+                <div class="ficha-extract" style="">
+                    <p class="morel">
+                        {{ content }}
+                    </p>
+                </div>
+                <div class="ficha-metadata">
+                    Escrita por <!-- convertir en un include: { % include author_1 %} ---> {% for author in site.authors %}{% if author.title == page.author %}<a href="{{ author.url | relative_url }}" class="morel">{% endif %}{% endfor %}{{ page.author }}</a><!-- convertir en un include: { % include author_2 %} --->{% if page.author2 %} {% for author in site.authors %}{% if author.title == page.author2 %}<a href="{{ author.url | relative_url }}" class="morel">{% endif %}{% endfor %} + {{ page.author2 }}</a>{% endif %}<!-- convertir en un include: { % include author_3 %} --->{% if page.author3 %}{% for author in site.authors %}{% if author.title == page.author3 %}<a href="{{ author.url | relative_url }}" class="morel">{% endif %}{% endfor %} + {{ page.author3 }}</a>{% endif %} // Publicada en <!-- convertir en un include: { % include ciudad %} --->{% if page.ciudad %}{% for city in site.cities %}{% if city.title == page.ciudad %}<a href="{{ city.url | relative_url }}" class="morel">{% endif %}{% endfor %}{{ page.ciudad }}{% endif %}</a> por <!-- convertir en un include: { % include editorial %} ---> {% for publisher in site.publishers %}{% if publisher.title == page.editorial %}<a href="{{ publisher.url | relative_url }}" class="morel">{% endif %}{% endfor %}{{ page.editorial }}</a> en {{ page.edicion }}{% if page.year %} // Publicada por primera vez en {{ page.year }}{% endif %} // <!-- convertir en un include: { % include repositorio %} ---> Recuperada por {% for repository in site.repositories %}{% if repository.title == page.repositorio %}<a href="{{ repository.url | relative_url }}" class="morel">{% endif %}{% endfor %}{{ page.repositorio }}</a>{% if page.repositorio2 %} + {% for repository in site.repositories %}{% if repository.title == page.repositorio2 %}<a href="{{ repository.url | relative_url }}" class="morel">{% endif %}{% endfor %}{{ page.repositorio2 }}</a>{% endif %}
+                </div>
+            </div>
+            <div class="portada" style="">
+                <div class="img-frame">
+                    <a href="{{ page.descarga }}" target="_blank" download><img src="{{ BASE_PATH }}/img/{{ page.img }}" class="responsive" alt="Viaje a las regiones equinocciales del Nuevo Continente II | Alejandro de Humboldt"></a>
+                    <div class="actions-h">
+                        <!-- AddToAny BEGIN -->
+                        <a class="morel" href="{{ page.descarga }}" target="_blank" download><i class="fa fa-download"></i></a>
+                        {% for product in products %}
+                        {% if product.author == page.author %}
+                        <i class="fa fa-shopping-cart"></i>
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            <div class="actions-v">
+             
+                <a class="morel" href="{{ page.descarga }}" target="_blank" download>
+                    <i class="fa fa-download" style="padding: 1em 0em"></i></a><br>
+                {% for product in products %}
+                {% if product.author == page.author %}
+                <i class="fa fa-shopping-cart" style="padding: 1em 0em"></i>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+        <!--Obras-->
+
+        {% include lista-relacionadas-libro.html %}
+        
+        <!-- fin de obras relacionadas -->
+       

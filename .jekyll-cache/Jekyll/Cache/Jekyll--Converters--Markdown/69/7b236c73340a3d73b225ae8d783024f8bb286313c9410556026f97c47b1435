@@ -1,0 +1,27 @@
+I"¦<p>migrado config file
+migradas carpetas de colecciones
+reemplazado lo de jb setup por espacio en 434 archivos
+movidos seis archivos de layout
+reemplazados cinco archivos por el correcto
+migrados los includes</p>
+
+<p>Author: febr3s <a href="mailto:eduardofebresm@gmail.com">eduardofebresm@gmail.com</a>
+Date:   Fri Sep 17 22:34:19 2021 -0400</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>obra de prueba configurada en liquid
+</code></pre></div></div>
+
+<p>commit b0d623b5fb6ff24c36b59c4fa1c9f963400222d8
+Author: febr3s <a href="mailto:eduardofebresm@gmail.com">eduardofebresm@gmail.com</a>
+Date:   Fri Sep 17 21:06:46 2021 -0400</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>migrado config file
+</code></pre></div></div>
+
+<p>commit a24099242a534455d42d379f8ca1002b66a384c5
+Author: febr3s <a href="mailto:eduardofebresm@gmail.com">eduardofebresm@gmail.com</a>
+Date:   Tue Sep 14 18:55:15 2021 -0400</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>footer y promocion pasado a _includes
+</code></pre></div></div>
+:ET

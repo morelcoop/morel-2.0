@@ -1,0 +1,17 @@
+<div class="row">
+
+            {% for publisher in site.publishers %}
+            <div class="basis obras-ciudad">
+                    <div class="container">
+                        <h2><a class="morel" href="{{ BASE_PATH }}{{ publisher.url }}">{{ publisher.title }}</a></h2>
+                    </div>
+                    {% for book in site.books %}
+                    {% if book.editorial == publisher.title %}
+                    <div class="price">
+                      <div class="title"><h4><a href="{{ BASE_PATH }}{{ book.url }}">{{book.title}}</a></h4></div>
+                    </div>
+                    {% endif %}
+                    {% endfor %}
+            </div>
+           {% endfor %}       
+</div>

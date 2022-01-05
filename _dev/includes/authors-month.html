@@ -1,0 +1,37 @@
+<div class="row obras">
+            <h2 class="index">Autoras del mes</h2>
+        </div>
+        <div class="row">
+            <!--LOOP DE LISTA 2-->
+            {% for author in site.authors %}
+            {% if author.feature == true %}
+             <div class="basis">
+                <div class="container">
+                    <a href="{{ BASE_PATH }}{{ author.url }}"><img src="{{ BASE_PATH }}/img/{{ author.img }}" alt="{{ author.title }}" class="image sombra"></a>
+                    <div class="overlay">
+                        <div class="text">
+                            <p class="overlay-text-inside">Nació el {{ author.city-born }} en {{ author.date-born }} y murió en {{ author.city-death }} el {{ author.date-death }}</p>
+                            <hr class=".overlay-text-inside">
+                            <a href="{{ BASE_PATH }}{{ author.url }}">
+                                <i class="fa fa-eye see-and-download morel"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="price">
+                    <div class="title">{{ author.title }}<br></div>
+                </div>
+            </div>
+            
+            {% endif %}
+            {% endfor %}
+            <!-- MÁS AUTORAS -->
+            <div class="basis masobras">
+                <div class="container">
+                    <label for="listas"><img src="{{ BASE_PATH }}/img/+obras.png" class="image sombra"></label>
+                    <div class="overlay">
+                        <div class="text"><label class="button" for="lista-obras">+&nbsp;OBRAS</label></div>
+                    </div>
+                </div> 
+            </div>        
+        </div>

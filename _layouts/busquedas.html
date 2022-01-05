@@ -1,0 +1,11 @@
+---
+layout: page
+---
+
+{% assign items_grouped = site.books | group_by: page.criterio | sort: 'name' %}
+  {% for group in items_grouped %}
+    <h3>{{group.name}}</h3>
+    {% for item in group.items %}
+        <a href="{{ item.url }}" title=""><p>{{item.title}}</p></a>
+    {% endfor %}
+  {% endfor %}

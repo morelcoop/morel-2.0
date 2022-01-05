@@ -1,0 +1,34 @@
+  <!--lista 1 -->
+        <div class="row obras">
+            <h2 class="index">Obras recuperadas por {{ page.title }} en MOREL</h2>
+        </div>
+        <div class="row">
+            <!--LOOP DE LISTA 1-->
+            {% for book in site.books %}
+            {% if book.editorial == page.title %}
+            <div class="basis">
+                <div class="container">
+                    <a href="{{ BASE_PATH }}{{ book.url }}"><img src="{{ BASE_PATH }}/img/{{ book.img }}" alt="{{ book.title }}" class="image sombra"></a>
+                    <div class="overlay">
+                        <div class="text">
+                            <p class="overlay-text-inside">Edición publicada en {{ book.ciudad }} por {{ book.editorial }} en {{ book.edicion }}</p>
+                            <hr class=".overlay-text-inside">
+                            <a href="{{ BASE_PATH }}{{ book.url }}">
+                                <i class="fa fa-eye see-and-download morel"></i>
+                            </a>
+                            <i class="fa fa-download clear"></i>
+                            <a href="{{ book.descarga }}">
+                                <i class="fa fa-download see-and-download morel"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="price">
+                    <div class="title">{{ book.title }}<br></div>
+                    <div class="autor">{{ book.author }}{% if book.author2 %}, {{ book.author2 }}{% endif %}{% if book.author3 %}, {{ book.author3 }}{% endif %}</div>
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+        </div>
