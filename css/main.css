@@ -609,6 +609,10 @@ input[type=submit] {
   cursor: pointer;
   transition: all 1s ease; }
 
+.busqueda input[type=submit] {
+  margin-right: -1rem;
+}
+
 input[type=submit]:hover {
   font-weight: 600;
   color: var(--background);
@@ -1198,4 +1202,8 @@ p.criterios-city {
 
 .busqueda {
   text-align: center;
+}
+
+div.busqueda {
+  padding: 25vh 2rem;
 }
