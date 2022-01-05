@@ -4,7 +4,7 @@ title: "Rubén Darío"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Enero
 city-death: 
-date-death:
+date-death: Febrero
 ---

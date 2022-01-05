@@ -4,7 +4,7 @@ title: "Alejandro Magariños Cervantes"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Octubre
 city-death: 
-date-death:
+date-death: Marzo
 ---

@@ -4,7 +4,7 @@ title: "Adela Zamudio"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Octubre
 city-death: 
-date-death:
+date-death: Junio
 ---

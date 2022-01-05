@@ -4,7 +4,7 @@ title: "Alonso de Ercilla y Zúñiga"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Agosto
 city-death: 
-date-death:
+date-death: Noviembre
 ---

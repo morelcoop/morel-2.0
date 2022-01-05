@@ -4,7 +4,7 @@ title: "Carlos Augusto Salaverry"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Diciembre
 city-death: 
-date-death:
+date-death: Abril
 ---

@@ -4,7 +4,7 @@ title: "Antonio José de Irisarri"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Febrero
 city-death: 
-date-death:
+date-death: Junio
 ---

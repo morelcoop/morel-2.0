@@ -4,7 +4,7 @@ title: "Arturo Ambrogi"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Octubre
 city-death: 
-date-death:
+date-death: Noviembre
 ---

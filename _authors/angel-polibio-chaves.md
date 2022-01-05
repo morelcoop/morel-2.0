@@ -4,7 +4,7 @@ title: "Ángel Polibio Chaves"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Febrero
 city-death: 
-date-death:
+date-death: Septiembre
 ---

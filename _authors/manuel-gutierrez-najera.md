@@ -4,7 +4,7 @@ title: "Manuel Gutiérrez Nájera"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Diciembre
 city-death: 
-date-death:
+date-death: Febrero
 ---

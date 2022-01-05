@@ -4,7 +4,7 @@ title: "Alonso de Góngora Marmolejo"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Abril
 city-death: 
-date-death:
+date-death: N.A.
 ---

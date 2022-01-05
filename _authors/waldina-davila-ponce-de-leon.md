@@ -1,10 +1,10 @@
 ---
 layout: author
-title: "Vicenta Laparra De La Cerda"
+title: "Waldina Dávila Ponce de León"
 feature: 
 img:
 city-born: 
 date-born: Abril
 city-death: 
-date-death: Enero
+date-death: Agosto
 ---

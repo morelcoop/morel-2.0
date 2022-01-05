@@ -4,7 +4,7 @@ title: "Tulio Febres Cordero"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Mayo
 city-death: 
-date-death:
+date-death: Junio
 ---

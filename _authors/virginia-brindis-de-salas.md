@@ -4,7 +4,7 @@ title: "Virginia Brindis de Salas"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Septiembre
 city-death: 
-date-death:
+date-death: Abril
 ---

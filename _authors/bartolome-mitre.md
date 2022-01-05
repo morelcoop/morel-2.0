@@ -4,7 +4,7 @@ title: "Bartolomé Mitre"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Junio
 city-death: 
-date-death:
+date-death: Enero
 ---

@@ -4,7 +4,7 @@ title: "Amelia Francasci"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Octubre
 city-death: 
-date-death:
+date-death: Febrero
 ---

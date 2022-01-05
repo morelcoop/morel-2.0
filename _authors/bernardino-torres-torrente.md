@@ -4,7 +4,7 @@ title: "Bernardino Torres Torrente"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Mayo
 city-death: 
-date-death:
+date-death: Enero
 ---

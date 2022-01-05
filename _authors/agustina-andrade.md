@@ -4,8 +4,8 @@ title: "Agustina Andrade"
 feature:
 img: 
 city-born:
-date-born: 
+date-born: Agosto
 city-death: 
-date-death:
+date-death: Febrero
 nacionalidad:
 ---

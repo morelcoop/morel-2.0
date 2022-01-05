@@ -1,10 +1,10 @@
 ---
 layout: author
-title: "Simón Rodríguez"
+title: "Vicente Riva Palacio"
 feature: 
 img:
 city-born: 
 date-born: Octubre
 city-death: 
-date-death: Febrero
+date-death: Noviembre
 ---

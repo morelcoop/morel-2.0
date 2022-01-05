@@ -4,7 +4,7 @@ title: "Víctor Pérez Petit"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Septiembre
 city-death: 
-date-death:
+date-death: Febrero
 ---

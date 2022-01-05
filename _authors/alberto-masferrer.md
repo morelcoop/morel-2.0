@@ -1,10 +1,11 @@
 ---
 layout: author
 title: "Alberto Masferrer"
-feature: 
-img:
-city-born: 
-date-born: 
+feature:
+img: 
+city-born:
+date-born: Julio
 city-death: 
-date-death:
+date-death: Septiembre
+nacionalidad:
 ---

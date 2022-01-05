@@ -4,7 +4,7 @@ title: "Alejandro Tapia y Rivera"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Noviembre
 city-death: 
-date-death:
+date-death: Julio
 ---
