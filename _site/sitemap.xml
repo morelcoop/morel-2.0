@@ -17,6 +17,13 @@
     </url>
     
     <url>
+        <loc>/blog.html</loc>
+        <lastmod>2022-01-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>/defunciones.html</loc>
         <lastmod>2022-01-05</lastmod>
         <changefreq>daily</changefreq>
@@ -52,6 +59,20 @@
     </url>
     
     <url>
+        <loc>/js/search.html</loc>
+        <lastmod>2022-01-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/search.html</loc>
+        <lastmod>2022-01-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>/sitemap.xml</loc>
         <lastmod>2022-01-05</lastmod>
         <changefreq>daily</changefreq>
@@ -61,98 +82,7 @@
 
     
     <url>
-        <loc>/2021/10/09/post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/10/04/post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/09/30/post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/09/29/post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/09/27/post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/09/23/post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/09/22/post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/09/21/post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/09/20/post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/09/17/post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2021/09/13/post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2017/02/08/my-third-post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2017/01/15/my-second-post.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/2017/01/02/my-first-post.html</loc>
+        <loc>/2022/01/05/morel.html</loc>
         <lastmod>2022-01-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>

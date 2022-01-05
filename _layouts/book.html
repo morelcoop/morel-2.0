@@ -28,24 +28,27 @@ layout: default
                     <a href="{{ page.descarga }}" target="_blank" download><img src="{{ BASE_PATH }}/img/{{ page.img }}" class="responsive" alt="{{ page.title }}"></a>
                     <div class="actions-h">
                         <!-- AddToAny BEGIN -->
-                        <a class="morel" href="{{ page.descarga }}" target="_blank" download><i class="fa fa-download"></i></a>
-                        {% for product in products %}
-                        {% if product.author == page.author %}
-                        <i class="fa fa-shopping-cart"></i>
+                        <a class="morel" href="{{ page.descarga }}" target="_blank" download><i class="fa fa-file-pdf-o"></i></a>
+                        {% if page.epub %}
+                        <a href="{{page.epub}}"><i class="fa fa-file-text-o"></i></a>
                         {% endif %}
-                        {% endfor %}
+                        {% if page.biblioteca %}
+                        <a href="{{page.biblioteca}}"><i class="fa fa-book"></i></a>
+                        {% endif %}
+                        
                     </div>
                 </div>
             </div>
             <div class="actions-v">
              
                 <a class="morel" href="{{ page.descarga }}" target="_blank" download>
-                    <i class="fa fa-download" style="padding: 1em 0em"></i></a><br>
-                {% for product in products %}
-                {% if product.author == page.author %}
-                <i class="fa fa-shopping-cart" style="padding: 1em 0em"></i>
+                    <i class="fa fa-file-pdf-o" style="padding: 1em 0em"></i></a><br>
+                {% if page.epub %}
+                <a href="{{page.epub}}"><i class="fa-file-text-o" style="padding: 1em 0em"></i></a>
                 {% endif %}
-                {% endfor %}
+                {% if page.biblioteca %}
+                <a href="{{page.biblioteca}}"><i class="fa fa-book" style="padding: 1em 0em"></i></a>
+                {% endif %}
             </div>
         </div>
         <!--Obras-->

@@ -5,8 +5,7 @@ editorial: "Fundación Biblioteca Ayacucho"
 ciudad: Caracas
 edicion: 1981 
 year: 
-category: 
-- Fray Bernardino de Sahagún
+author: Fray Bernardino de Sahagún
 nacionalidad: España
 repositorio: "Consejo Latinoamericano de Ciencias Sociales"
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/

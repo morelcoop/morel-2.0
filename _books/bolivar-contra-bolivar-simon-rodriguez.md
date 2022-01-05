@@ -5,7 +5,7 @@ editorial: "Fundación Biblioteca de Ayacucho"
 ciudad: Caracas
 edicion: 2019
 year: 
-author: "- Simón Rodríguez"
+author: "Simón Rodríguez"
 nacionalidad: Venezuela
 repositorio: "Consejo Latinoamericano de Ciencias Sociales"
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/

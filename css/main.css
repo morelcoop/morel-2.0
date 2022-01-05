@@ -13,7 +13,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   line-height: 1;
-  padding: 5%; }
+  }
 
 ol, ul {
   list-style: none; }
@@ -51,7 +51,7 @@ a {
   outline: none;
   color: var(--color-1); }
 
-a.morel, footer a {
+.blog-post a, a.morel, footer a {
   color: var(--color-1);
   font-weight: 500;
   transition: all 1s ease; }
@@ -189,7 +189,7 @@ label:hover.button, button:hover {
 /*general*/
 .main-container {
   margin: auto;
-  padding: 1%;
+  padding: 6%;
   background-color: var(--fondo); }
 
 .column {
@@ -618,7 +618,7 @@ input[type=submit]:hover {
 label.input {
   font-size: 1.4rem; }
 
-input[type=search] {
+input[type=search], input[type=text] {
   border: .125em solid #ccc;
   font-size: 1.4rem;
   transition: all 1s ease;
@@ -1194,4 +1194,8 @@ p.criterios-city {
 
 .chriteria {
   filter: brightness(0.30);
+}
+
+.busqueda {
+  text-align: center;
 }
