@@ -14,7 +14,7 @@ descarga: https://ia801505.us.archive.org/10/items/ensayos-poeticos-vicenta-lapa
 biblioteca: http://www.worldcat.org/oclc/50576026
 comprar: https://amzn.to/2RHrHyN
 periodo: "Siglo XIX"
-feature: 
+feature: true 
 ---
  
 

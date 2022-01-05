@@ -1,0 +1,4 @@
+---
+layout: busquedas
+criterio: img
+---

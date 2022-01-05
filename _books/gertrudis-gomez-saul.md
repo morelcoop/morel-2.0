@@ -1,6 +1,6 @@
 ---
 title: Saul, tragedia bíblica
-layout: post
+layout: book
 editorial: "Imprenta de Don José María Repullés"
 ciudad: Madrid
 edicion: 1849

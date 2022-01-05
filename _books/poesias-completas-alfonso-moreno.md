@@ -1,6 +1,6 @@
 ---
 title: Poesías completas 
-layout: post
+layout: book
 editorial: "Comisión Nacional Permanente de Conmemoraciones Cívicas"
 ciudad: Quito
 edicion: 2002

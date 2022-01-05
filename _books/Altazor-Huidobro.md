@@ -1,6 +1,6 @@
 ---
 title: Altazor
-layout: post
+layout: book
 editorial: "Compañía Iberoamericana de Publicaciones"
 ciudad: Madrid
 edicion: 1931
@@ -14,6 +14,7 @@ descarga: https://ia800703.us.archive.org/30/items/huidobro-altazor/huidobro-alt
 biblioteca: http://www.worldcat.org/oclc/3271136
 comprar: https://amzn.to/3gWGUY0
 periodo: "Siglo XX"
+feature: true
 ---
  
 

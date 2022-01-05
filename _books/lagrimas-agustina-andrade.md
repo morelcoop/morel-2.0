@@ -1,6 +1,6 @@
 ---
 title: Lágrimas, ensayos poéticos
-layout: post
+layout: book
 editorial: "Academia Argentina de Letras"
 ciudad: Buenos Aires
 edicion: 1878

@@ -1,6 +1,6 @@
 ---
 title: Relación de la inundación que hizo el Río Mapocho
-layout: post
+layout: book
 editorial: "Imprenta del Ferrocarril"
 ciudad: "Santiago de Chile"
 edicion: 1862

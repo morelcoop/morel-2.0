@@ -1,6 +1,6 @@
 ---
 title: Selva y montaña
-layout: post
+layout: book
 editorial: "Establecimiento Gráfico Oceana"
 ciudad: Buenos Aires
 edicion: 1918

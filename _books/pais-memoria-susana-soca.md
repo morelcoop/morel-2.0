@@ -9,7 +9,7 @@ author: "Susana Soca"
 nacionalidad: Uruguay
 repositorio: "Autores UY"
 repurl: https://autores.uy/
-img: como_las_nubes_mendilaharsu_Morel.jpg
+img: susana_soca-en_un_pais_de_la_memoria.jpg
 descarga: https://ia801801.us.archive.org/4/items/susana_soca_-_en_un_pais_de_la_memoria/susana_soca_-_en_un_pais_de_la_memoria.pdf
 periodo: "Siglo XX"
 biblioteca: 

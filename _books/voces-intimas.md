@@ -1,6 +1,6 @@
 ---
 title: Voces íntimas, Versos y poemitas
-layout: post
+layout: book
 editorial: "Imprenta Ecuador"
 ciudad: Quito
 edicion: 1934

@@ -1,6 +1,6 @@
 ---
 title: Poesías 
-layout: post
+layout: book
 editorial: "Garnier Hermanos"
 ciudad: Paris
 edicion: 1903

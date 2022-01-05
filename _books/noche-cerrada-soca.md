@@ -14,7 +14,7 @@ descarga: https://ia601404.us.archive.org/10/items/noche-cerrada-susana-soca/Noc
 biblioteca: http://www.worldcat.org/oclc/2436616
 comprar: 
 periodo: "Siglo XX"
-feature: 
+feature: true
 ---
  
 SOBRE el llano fulgura

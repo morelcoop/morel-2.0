@@ -13,7 +13,7 @@ img: Los_caciques_heroicos-Bolivar_Coronado-MOREL.jpg
 descarga: https://ia601405.us.archive.org/35/items/los_caciques_heroicos/los_caciques_heroicos.pdf
 comprar: https://amzn.to/31koWJR
 tag: "Siglo XX"
-feature: true
+feature:
 ---
  
 

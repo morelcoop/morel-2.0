@@ -1,6 +1,6 @@
 ---
 title: Antología
-layout: post
+layout: book
 editorial: "Biblioteca Artigas"
 ciudad: Montevideo
 edicion: 1965

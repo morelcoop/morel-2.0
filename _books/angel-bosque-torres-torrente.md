@@ -14,7 +14,8 @@ descarga: https://ia903408.us.archive.org/10/items/el-anjel-del-bosque/El%20anje
 biblioteca: http://www.worldcat.org/oclc/223115289
 comprar: 
 periodo: "Siglo XIX"
+feature: true
 ---
  
 
-Aunque yo sentía que gozaba de la felicidad en aquella casa, no era justo ni prudente permanecer en ella por mas tiempo. La interesante historia de mi huésped, apénas principiada, me habia detenido, y aunque yo no tenia urgencia en continuar ese dia mi viaje, estaba abusando de la jenero- sidad hospitalaria. Dije pues al negro que me hicieran el favor de traer mi bestia.
+Aunque yo sentía que gozaba de la felicidad en aquella casa, no era justo ni prudente permanecer en ella por mas tiempo. La interesante historia de mi huésped, apénas principiada, me habia detenido, y aunque yo no tenia urgencia en continuar ese dia mi viaje, estaba abusando de la jenerosidad hospitalaria. Dije pues al negro que me hicieran el favor de traer mi bestia.

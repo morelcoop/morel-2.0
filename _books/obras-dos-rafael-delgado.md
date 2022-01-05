@@ -1,6 +1,6 @@
 ---
 title: Obras Tomo II, Los parientes ricos
-layout: post
+layout: book
 editorial: "Editor V. Agüeros"
 ciudad: Ciudad de México
 edicion: 1902

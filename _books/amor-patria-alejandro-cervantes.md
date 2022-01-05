@@ -1,6 +1,6 @@
 ---
 title: Amor y Patria
-layout: post
+layout: book
 editorial: "Imprenta de la República"
 ciudad: Montevideo
 edicion: 1857

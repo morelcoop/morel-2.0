@@ -24,6 +24,13 @@
     </url>
     
     <url>
+        <loc>/imagenes-repetidas.html</loc>
+        <lastmod>2022-01-05</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
         <loc>/</loc>
         <lastmod>2022-01-05</lastmod>
         <changefreq>daily</changefreq>
@@ -39,13 +46,6 @@
     
     <url>
         <loc>/obras.html</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/por-ciudad.html</loc>
         <lastmod>2022-01-05</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>

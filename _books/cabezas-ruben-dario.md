@@ -14,6 +14,7 @@ descarga: https://ia801804.us.archive.org/22/items/cabezas-ruben-dario/Cabezas%2
 biblioteca: http://www.worldcat.org/oclc/1229342325
 comprar: 
 periodo: "Siglo XX"
+feature: true
 ---
  
 

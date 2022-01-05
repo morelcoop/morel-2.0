@@ -1,6 +1,6 @@
 ---
 title: Martín Rivas
-layout: post
+layout: book
 editorial: "Fundación Biblioteca Ayacucho"
 ciudad: Caracas
 edicion: 1977

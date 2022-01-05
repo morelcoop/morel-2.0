@@ -1,6 +1,6 @@
 ---
 title: El Gibaro
-layout: post
+layout: book
 editorial: J. "Oliveres, impresor de S.M"
 ciudad: Barcelona
 edicion: 1849

@@ -1,6 +1,6 @@
 ---
 title: Rosas de otoño
-layout: post
+layout: book
 editorial: "Tipografía de la Escuela de Artes y Oficio"
 ciudad: Quito
 edicion: 1911

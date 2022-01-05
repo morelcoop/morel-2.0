@@ -12,7 +12,7 @@ img: Andrés_Bello-obras_completas_tomo_3_poesias-MOREL.jpg
 descarga: https://ia601500.us.archive.org/15/items/andres-bello-obras-completas-tomo-3-poesias/Andr%C3%A9s_Bello_obras_completas_tomo_3_poesias.pdf
 comprar: https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=morelcoop-20&keywords="andres bello" poesia&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=edf541ddd6ca0b703f0299f69da53e38
 tag: "Siglo XIX"
-feature: true
+feature:
 ---
  
 

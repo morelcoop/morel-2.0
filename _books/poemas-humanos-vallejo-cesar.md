@@ -1,6 +1,6 @@
 ---
 title: Poemas humanos
-layout: post
+layout: book
 editorial: "Ediciones Laberintos"
 ciudad: Caracas
 edicion: 2008
