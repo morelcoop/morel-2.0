@@ -38,14 +38,14 @@
                 </div>
             </div>
             <div class="actions-v">
-             
-                <a class="morel" href="{{ book.descarga }}" target="_blank" download>
-                    <i class="fa fa-download" style="padding: 1em 0em"></i></a><br>
-                {% for product in products %}
-                {% if product.author == book.author %}
-                <i class="fa fa-shopping-cart" style="padding: 1em 0em"></i>
+                <a class="morel" href="{{ page.descarga }}" target="_blank" download>
+                    <i class="fa fa-file-pdf-o" style="padding: 1em 0em"></i></a><br>
+                {% if page.epub %}
+                <a href="{{page.epub}}"><i class="fa-file-text-o" style="padding: 1em 0em"></i></a>
                 {% endif %}
-                {% endfor %}
+                {% if page.biblioteca %}
+                <a href="{{page.biblioteca}}"><i class="fa fa-book" style="padding: 1em 0em"></i></a>
+                {% endif %}
             </div>
         </div>
         {% endfor %}
