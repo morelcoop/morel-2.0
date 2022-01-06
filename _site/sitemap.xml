@@ -4,77 +4,70 @@
     
     <url>
         <loc>/about.html</loc>
-        <lastmod>2022-01-05</lastmod>
+        <lastmod>2022-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/agregar.html</loc>
-        <lastmod>2022-01-05</lastmod>
+        <lastmod>2022-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/blog.html</loc>
-        <lastmod>2022-01-05</lastmod>
+        <lastmod>2022-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/defunciones.html</loc>
-        <lastmod>2022-01-05</lastmod>
+        <loc>/empty-categories.html</loc>
+        <lastmod>2022-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/imagenes-repetidas.html</loc>
-        <lastmod>2022-01-05</lastmod>
+        <lastmod>2022-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/</loc>
-        <lastmod>2022-01-05</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/natalicios.html</loc>
-        <lastmod>2022-01-05</lastmod>
+        <lastmod>2022-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/obras.html</loc>
-        <lastmod>2022-01-05</lastmod>
+        <lastmod>2022-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/js/search.html</loc>
-        <lastmod>2022-01-05</lastmod>
+        <lastmod>2022-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/search.html</loc>
-        <lastmod>2022-01-05</lastmod>
+        <lastmod>2022-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/sitemap.xml</loc>
-        <lastmod>2022-01-05</lastmod>
+        <lastmod>2022-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
@@ -83,7 +76,7 @@
     
     <url>
         <loc>/2022/01/05/morel.html</loc>
-        <lastmod>2022-01-05</lastmod>
+        <lastmod>2022-01-06</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>

@@ -1,6 +1,6 @@
 ---
 layout: page-chriteria
-title: Autora
+title: autora
 tagline: Obras por autora
 img: tema/autora.jpg
 ---

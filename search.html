@@ -8,9 +8,11 @@ layout: default
     <input type="submit" value="buscar">
   </form>
 </div>
-
+<div class="row obras">
+            <h2 class="index">Obras por categoría</h2>
+        </div>
+        {% include chriteria.html %}
 <ul id="search-results"></ul>
-
 <script>
   window.store = {
     {% for book in site.books %}
