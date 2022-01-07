@@ -7,7 +7,7 @@ edicion: 1908
 year: 
 author: "Dolores Veintimilla de Galindo"
 nacionalidad: Ecuador
-repositorio: "Biblioteca Digital Wikisource"
+repositorio: "Wikisource"
 repurl: https://es.wikisource.org/wiki
 img: producciones_literarias_veintimilla_Morel.jpg
 descarga: https://ia601500.us.archive.org/24/items/producciones-literarias-dolores-veintimilla/Producciones%20literarias%20-%20Dolores%20Veintimilla.pdf

@@ -1,6 +1,6 @@
 ---
 layout: author
-title: "César Nicolás Pénson"
+title: "César Nicolás Penson"
 feature: 
 img:
 city-born: 

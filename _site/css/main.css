@@ -843,6 +843,10 @@ margin:.688rem -1rem 5rem -1rem
   font-size: 1.05rem;
   margin: 3%; }
 
+.price-obras-listas {
+  display: block;
+}
+
 .price .title {
   font-weight: 600;
   margin-top: 1.7rem; }
@@ -860,7 +864,7 @@ margin:.688rem -1rem 5rem -1rem
   .price {
     display: none;
     }
-    
+
   .container:hover ~ .price {
     display: block; }
 

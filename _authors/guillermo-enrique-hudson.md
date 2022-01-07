@@ -1,6 +1,6 @@
 ---
 layout: author
-title: "	Guillermo Enrique Hudson"
+title: "Guillermo Enrique Hudson"
 feature: 
 img:
 city-born: 

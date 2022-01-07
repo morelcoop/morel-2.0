@@ -6,7 +6,7 @@
                         <h2><a class="morel" href="{{ site.baseurl }}{{ author.url }}">{{ author.title }}</a></h2>
                     </div>
                     {% for book in site.books %}
-                    {% if book.author == author.title %}
+                    {% if book.author == author.title or book.author2 == author.title or book.author3 == author.title %}
                     <div class="price">
                       <div class="title"><h4><a href="{{ BASE_PATH }}{{ book.url }}">{{book.title}}</a></h4></div>
                     </div>

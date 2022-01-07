@@ -5,7 +5,7 @@ editorial: "Imprenta Quisqueya"
 ciudad: "Santo Domingo"
 edicion: 1891
 year: 
-author: "Cesar Nicolás Pénson"
+author: "César Nicolás Penson"
 nacionalidad: República Dominicana
 repositorio: "American Libraries"
 repurl: https://archive.org/details/americana 

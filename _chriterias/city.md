@@ -1,6 +1,6 @@
 ---
 layout: page-chriteria
-title: Ciudad
+title: ciudad
 tagline: Obras por ciudad de publicación
 img: tema/lugar.jpg
 ---

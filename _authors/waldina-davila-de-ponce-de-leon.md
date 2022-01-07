@@ -4,7 +4,7 @@ title: "Waldina Dávila de Ponce de León"
 feature: 
 img:
 city-born: 
-date-born: 
+date-born: Abril
 city-death: 
-date-death:
+date-death: Agosto
 ---

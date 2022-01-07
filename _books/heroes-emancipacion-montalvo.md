@@ -9,7 +9,7 @@ author: "Juan Montalvo"
 nacionalidad: Ecuador
 repositorio: "University of Toronto"
 repurl: https://archive.org/details/robarts
-img: vicente_huidobro_gruta_silencio.jpg
+img: heroes-emancipacion-juan-montalvo.jpg
 descarga: https://ia803406.us.archive.org/18/items/heroes-de-la-emancipacion-juan-montalvo/H%C3%A9roes%20de%20la%20Emancipaci%C3%B3n%20-%20Juan%20Montalvo.pdf
 biblioteca: http://www.worldcat.org/oclc/9187018
 comprar: 

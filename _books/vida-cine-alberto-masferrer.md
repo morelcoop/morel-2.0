@@ -10,7 +10,7 @@ nacionalidad: "El Salvador"
 nacimiento: 1868
 repositorio: "Repositorio Digital de Ciencia y Cultura de El Salvador"
 repurl: http://www.redicces.org.sv/jspui/
-img: perla_antillas_maria_guadalupe_cartagena.jpg
+img: una-vida-en-el-cine.jpg
 descarga: https://ia803407.us.archive.org/24/items/una-vida-en-el-cine-masferrer/Una%20vida%20en%20el%20cine%20-%20Masferrer.pdf
 biblioteca: 
 comprar: 

@@ -9,7 +9,7 @@ author: "Rogelio Fernández Güell"
 nacionalidad: "Costa Rica"
 repositorio: "Sistema Nacional de Bibliotecas de Costa Rica"
 repurl: https://www.sinabi.go.cr/
-img: perla_antillas_maria_guadalupe_cartagena.jpg
+img: poesias-rogelio-fernandez-guell.jpg
 descarga: https://ia801802.us.archive.org/3/items/poesias-rogelio-fernandez-guell/Poesias%20-%20Rogelio%20Fern%C3%A1ndez%20G%C3%BCell.pdf
 biblioteca: http://www.worldcat.org/oclc/1084004232
 comprar: 

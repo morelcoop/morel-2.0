@@ -1,6 +1,6 @@
 ---
 layout: author
-title: "Francisco Lopez De Gomara"
+title: "Francisco López De Gomara"
 feature: 
 img:
 city-born: 

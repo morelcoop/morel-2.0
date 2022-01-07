@@ -1,6 +1,6 @@
 ---
 layout: page-chriteria
-title: Repositorio
+title: repositorio
 img: tema/repositorio.jpg
 ---
 {% include obras-por-repositorio.html %}

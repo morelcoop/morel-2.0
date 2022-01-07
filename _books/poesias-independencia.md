@@ -5,8 +5,9 @@ editorial: "Fundación Biblioteca Ayacucho"
 ciudad: Caracas
 edicion: 1979
 year: 
-author: "Emilio Carilla [Compilador]"
-nacionalidad: Bolivia
+author: "José Joaquín de Olmedo"
+author3: "José María Heredia"
+author2: "Andrés Bello"
 repositorio: "Consejo Latinoamericano de Ciencias Sociales"
 repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Poesia_de_la_independencia.jpg

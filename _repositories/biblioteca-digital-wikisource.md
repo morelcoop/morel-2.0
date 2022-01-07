@@ -1,4 +1,4 @@
 ---
 layout: repository
-title: "Biblioteca Digital Wikisource"
+title: "Wikisource"
 ---

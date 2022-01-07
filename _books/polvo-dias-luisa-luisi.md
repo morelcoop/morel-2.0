@@ -10,7 +10,7 @@ nacionalidad: Uruguay
 nacimiento: 1883
 repositorio: "Autores UY"
 repurl: https://autores.uy/
-img: sentir_luisa_luisi_Morel.jpg
+img: polvo_luisa_luisi_Morel.jpg
 descarga: https://ia801806.us.archive.org/18/items/luisa-luisi-polvo-de-dias/Luisa%20Luisi%20-%20Polvo%20de%20dias.pdf
 biblioteca: http://www.worldcat.org/oclc/682839308
 comprar: 
