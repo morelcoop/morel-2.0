@@ -10,7 +10,7 @@ author2: "Honorato Vázquez"
 nacionalidad: Ecuador
 repositorio: "Biblioteca Digital Casa de la Cultura de Ecuador"
 repurl: http://repositorio.casadelacultura.gob.ec/
-img: sabados_mayo_moreno_Morel.jpg
+img: moreno-sabados-mayo.jpg
 descarga: https://ia803409.us.archive.org/0/items/fr-1-l-000490-moreno-sabados/FR1-L-000490-Moreno-Sabados.pdf
 biblioteca: http://www.worldcat.org/oclc/912554317
 comprar: 
