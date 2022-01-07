@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+
+{% for book in site.books %}    
+
+    <h3 style="display: none">{{ book.title }}</h3>
+
+
+    {% for repository in site.repositories %}{% if repository.title == book.repositorio %}<a href="{{ author.url | relative_url }}" class="morel" style="display: none;">{% endif %}{% endfor %}{{ book.repositorio }}</a>
+
+  
+{% endfor %}
+
+
+
+
+

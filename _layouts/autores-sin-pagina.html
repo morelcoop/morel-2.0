@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+
+{% for book in site.books %}    
+
+    <h3 style="display: none">{{ book.title }}</h3>
+
+    <p>{% for author in site.authors %}{% if author.title == book.author %}<a href="{{ author.url | relative_url }}" class="morel" style="display: none;">{% endif %}{% endfor %}{{ book.author }}</a></p>
+
+  
+{% endfor %}
+
+
+
+
+
