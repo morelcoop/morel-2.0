@@ -14,7 +14,7 @@
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>Aún no disponible. <a href="mailto:proyectomorel@gmail.com">Sugiere su incorporación</a></li>';
+      searchResults.innerHTML = '<p>Aún esa obra o esa autora no están disponibles. <a href="{{BASE_PATH}}/agregar">Sugiere su incorporación</a><p>';
     }
   }
 

@@ -2,32 +2,35 @@
 layout: default
 ---
         <h1 class="index">{{ page.tagline }}</h1>
-        <!--lista 1 -->
-        <div class="row obras">
-            <h2 class="index">Última vitrina</h2>
-        </div>
         
-        <!--lista 2 -->
-        <div class="row obras">
-            <p class="index">Por autoras que nacieron o fallecieron en enero</p>
-        </div>
-        {% include ultima-vitrina.html %}
+        <!--Búsqueda-->
+        <a href="search"><div class="search-index"><i class="fa fa-search" aria-hidden="true" class="search-index"></i></div></a>
 
-        <!--lista 3 -->
+        <!--Criterios -->
         <div class="row obras">
             <h2 class="index">Obras por categoría</h2>
         </div>
+
         {% include chriteria.html %}
 
 
-        <!--lista 4 -->        
+        <!--Ocho al azar-->        
         <div class="row obras">
             <h2 class="index">Ocho obras al azar</h2>
         </div>
         {% include lista-todas-sample.html %}
        
 
-        <!--lista 5 -->
+        <!--Última vitrina-->
+        <div class="row obras">
+            <h2 class="index">Última vitrina</h2>
+        </div>
+        <div class="row obras">
+            <p class="index">Por autoras que nacieron o fallecieron en enero</p>
+        </div>
+        {% include ultima-vitrina.html %}
+
+        <!--Una al azar -->
         <div class="row obras">
             <h2 class="index">Tu obra de la suerte</h2>
         </div>
