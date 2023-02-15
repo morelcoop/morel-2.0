@@ -14,7 +14,6 @@ descarga: https://ia801504.us.archive.org/34/items/cartas-y-relaciones-hernan-co
 biblioteca: http://www.worldcat.org/oclc/731097274
 comprar: https://amzn.to/3i251Fc
 periodo: "Colonial"
-feature: 
 ---
  
 E seguimos nuestro camino por donde el indio de Tascaltecal nos guiaba; por el cual llevábamos mucho trabajo y fatiga, porque nos con venia ir muchas veces fuera de camino; é ya que era tarde, llegamos á un llano donde había unas casas pequeñas, donde aquella noche nos aposentamos con harta necesitad de comida. E otro día luego por la mañana comenzamos á andar, é aun no éramos salidos al camino, cuando ya la gente de los enemigos nos seguía por la rezaga, y escaramuzando con ellos llegamos á un pueblo grande que estaba dos leguas de allí, y á la mano derecha del estaban algunos indios encima de un cerro pequeño.

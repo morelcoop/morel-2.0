@@ -14,7 +14,6 @@ descarga: https://ia601401.us.archive.org/2/items/costa-rica-pintoresca/Costa%20
 biblioteca: http://www.worldcat.org/oclc/458508252
 comprar: https://amzn.to/3lhmdZo
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

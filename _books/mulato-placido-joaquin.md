@@ -15,7 +15,6 @@ epub: http://www.gutenberg.org/ebooks/44305.epub.noimages?session_id=b7de9b597cb
 biblioteca: http://www.worldcat.org/oclc/79751431
 comprar: https://www.amazon.com/gp/product/1293331627/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1293331627&linkCode=as2&tag=morelcoop-20&linkId=1d1510440d5526a5a57c04c6893fac1c
 periodo: "Siglo XIX"
-feature: 
 ---
  
 El ambiente perfumado del huerto i de los jardines de esa casa romántica se exhalaba fuera de ella; la voz chillona de los loros, el caprichoso concierto de los canarios, confundido a veces con las armonías del piano i los sones del violín, detenían a menudo a todo el que transitaba por esa calle, especialmente en las dulces i albas noches de verano, alumbradas por el fulgor de la luna.

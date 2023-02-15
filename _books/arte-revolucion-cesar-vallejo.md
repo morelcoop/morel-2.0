@@ -12,6 +12,7 @@ repurl: https://archive.org/details/opensource
 img: cesar_vallejo_arte_revolucion.jpg
 descarga: https://ia803400.us.archive.org/31/items/el-arte-y-la-revolucion-cesar-vallejo/El%20arte%20y%20la%20revoluci%C3%B3n%20-%20Cesar%20Vallejo.pdf
 periodo: "Siglo XX"
+featured: false
 biblioteca: http://www.worldcat.org/oclc/432760177
 comprar: 
 ---

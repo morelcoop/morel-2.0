@@ -14,7 +14,6 @@ descarga: https://ia601407.us.archive.org/11/items/cronica-de-la-nueva-espana/Cr
 biblioteca: http://www.worldcat.org/oclc/166060547
 comprar: https://amzn.to/2Rx1vad
 periodo: "Siglo XX"
-feature: 
 ---
  
 

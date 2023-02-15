@@ -14,7 +14,7 @@ descarga: https://ia601502.us.archive.org/0/items/coleccion-de-los-articulos-de-
 biblioteca: http://www.worldcat.org/oclc/55251898
 comprar: https://amzn.to/2QnhrLp
 periodo: "Siglo XIX"
-feature: 
+featured: false
 ---
  
 

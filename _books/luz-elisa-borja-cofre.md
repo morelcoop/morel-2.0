@@ -15,7 +15,6 @@ descarga: https://ia601405.us.archive.org/22/items/cofre-romantico-luz-elisa-bor
 biblioteca: http://www.worldcat.org/oclc/617126949
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 Todo se ha muerto ya y se ha extinguido 

@@ -14,7 +14,6 @@ descarga: https://ia601503.us.archive.org/16/items/cantos-primaverales-juan-euse
 biblioteca: 
 comprar: https://amzn.to/3ikRrMm
 periodo: "Siglo XX"
-feature: 
 ---
  
 Te amo cual ama el picaflor selvático

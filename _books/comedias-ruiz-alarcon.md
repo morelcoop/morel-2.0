@@ -14,7 +14,6 @@ descarga: https://ia601503.us.archive.org/35/items/comedias-juan-ruiz-de-alarcon
 biblioteca: http://www.worldcat.org/oclc/562355075
 comprar: https://amzn.to/3oM6Eud
 periodo: "Colonial"
-feature: 
 ---
  
 Ella, del desdén sentida

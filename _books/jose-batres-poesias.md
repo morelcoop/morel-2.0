@@ -14,7 +14,6 @@ descarga: https://ia801708.us.archive.org/14/items/poesias-jose-batres-montufar/
 biblioteca: http://www.worldcat.org/oclc/948848761
 comprar: https://amzn.to/2YoSCmN
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

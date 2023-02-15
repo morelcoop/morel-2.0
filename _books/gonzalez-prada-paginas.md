@@ -14,7 +14,6 @@ descarga: https://ia601502.us.archive.org/18/items/paginas-libres.-horas-de-luch
 biblioteca: http://www.worldcat.org/oclc/313722502
 comprar: https://amzn.to/3oe1SFP
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Algunos de nuestros librepensadores no necesitan de canas ni de arrugas para retroceder hacia la mentalidad de abuelas y nodrizas: les basta un revés de fortuna, la muerte de una persona querida o el asalto de una enfermedad grave. ¡Seres dichosos! la gracia eficaz se le introduce con los esporos del aire y las triquinas del salchichón. Otros librepensadores realizan un cambio de frente, sin que en la evolución intervengan enfermedades, muertes ni desgracias: les sobra con un buen matrimonio. ¡Seres más dichosos! hallan el Catolicismo en los legajos de una dote, descubren a Dios en el moño postizo de una vieja rica.

@@ -14,7 +14,6 @@ descarga: https://ia801507.us.archive.org/7/items/poesias-de-ignacio-rodriguez-g
 biblioteca: http://www.worldcat.org/oclc/1222909
 comprar: https://amzn.to/3k2Jixx
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Cual brilla la esperanza seductora

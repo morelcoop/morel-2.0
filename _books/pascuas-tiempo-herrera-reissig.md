@@ -14,7 +14,6 @@ descarga: https://ia801506.us.archive.org/4/items/las-pascuas-del-tiempo-poesias
 biblioteca: http://www.worldcat.org/oclc/948872845
 comprar: https://amzn.to/2UoQYPX
 periodo: "Siglo XX"
-feature: 
 ---
  
 

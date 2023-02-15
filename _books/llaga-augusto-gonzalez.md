@@ -14,7 +14,6 @@ descarga: https://ia601408.us.archive.org/6/items/la-llaga-nicolas-augusto-gonza
 biblioteca: http://www.worldcat.org/oclc/21389626
 comprar: https://amzn.to/3jOsGcF
 periodo: "Siglo XX"
-feature: 
 ---
  
 Poco A poco el libro se desprendió de sus manos, sus ojos se cerraron y comenzó á invadir su cerebro el adormecimiento producido por el narcótico. 

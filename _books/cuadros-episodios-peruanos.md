@@ -14,7 +14,6 @@ descarga: https://ia601504.us.archive.org/9/items/cuadros-y-episodios-peruanos-y
 biblioteca: http://www.worldcat.org/oclc/906089113
 comprar: https://amzn.to/2IDSefh
 periodo: "Siglo XIX"
-feature: 
 ---
  
 De las cadentes aguas el ruido;

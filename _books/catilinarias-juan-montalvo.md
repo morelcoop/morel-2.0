@@ -14,7 +14,6 @@ descarga: https://ia601504.us.archive.org/21/items/las-catilinarias-juan-montalv
 biblioteca: http://www.worldcat.org/oclc/470375499
 comprar: https://amzn.to/3jnNGqv
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Nelson no tenía idea del miedo: cuando en su presencia nombraban este ruin afecto, no le era dable cuál fuese su naturaleza. Hay asimismo seres agraciados por Dios con una mirada especial, que no tienen nociones de la envidia; saben qué es, pero no la experimentan por su parte, con ser como es achaque de que adolecen, cual más cual menos, todos los mortales. La envidia es una blasfemia.

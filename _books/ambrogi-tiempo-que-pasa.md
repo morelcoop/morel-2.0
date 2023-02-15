@@ -14,7 +14,6 @@ descarga: https://ia601408.us.archive.org/4/items/el-tiempo-que-pasa.-arturo-amb
 biblioteca: http://www.worldcat.org/oclc/85001752
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 

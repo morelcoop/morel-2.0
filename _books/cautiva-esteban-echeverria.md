@@ -14,7 +14,6 @@ descarga: https://ia601409.us.archive.org/25/items/la-cautiva/la%20cautiva.pdf
 biblioteca: http://www.worldcat.org/oclc/496462325
 comprar: https://amzn.to/2Y31Uoz
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

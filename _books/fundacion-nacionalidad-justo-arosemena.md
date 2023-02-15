@@ -14,7 +14,6 @@ descarga: https://ia801501.us.archive.org/2/items/fundacion-de-la-nacionalidad-p
 biblioteca: http://www.worldcat.org/oclc/466404928
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 El Estado de Panamá se adhirió a Colombia por ese Convenio. Formando parte este Estado de la Unión Colombiana, tenía que entrar en las bases generales que establecerá la Constitución que expidiese la Convención Nacional. De aquí las modificaciones que el Convenio debía experimentar. Pere ese Convenio, por la exagerada inteligencia que se le dio, sobre todo en circunstancias difíciles, había venido a ser el motiv de un rompimiento entre el Gobierno Nacional y el Estado.

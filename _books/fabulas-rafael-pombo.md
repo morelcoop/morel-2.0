@@ -14,7 +14,6 @@ descarga: https://ia601508.us.archive.org/27/items/fabulas-rafael-pombo/Fabulas-
 biblioteca: http://www.worldcat.org/oclc/777728847
 comprar: https://amzn.to/2Y6tb9v
 periodo: "Siglo XIX"
-feature: 
 ---
  
 XXI

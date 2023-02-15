@@ -15,7 +15,7 @@ epub: http://www.gutenberg.org/ebooks/13507.epub.images?session_id=8a4024cf856ba
 biblioteca:  http://www.worldcat.org/oclc/1096971850
 comprar: https://amzn.to/3mkROJ6
 periodo: "Siglo XX"
-feature: 
+featured: false
 ---
  
 Como es natural, el matrimonio puso todo su amor en la esperanza de otro hijo. Nació éste, y su salud y limpidez de risa reencendieron el porvenir extinguido. Pero a los diez y ocho meses las convulsiones del primogénito se repetían, y al día siguiente amanecía idiota.

@@ -14,7 +14,6 @@ descarga: https://ia801508.us.archive.org/30/items/peraltilla-augusto-madan-y-ga
 biblioteca: http://www.worldcat.org/oclc/12189892
 comprar: https://amzn.to/33IVCfU
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Lo que más suspendió el ánimo,

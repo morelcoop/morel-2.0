@@ -14,7 +14,6 @@ descarga: https://ia601407.us.archive.org/5/items/leyendas-nacionales-sanfuentes
 biblioteca: http://www.worldcat.org/oclc/458937511
 comprar: https://amzn.to/31Y7MjM
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Grave asunto es escribir

@@ -14,7 +14,6 @@ descarga: https://ia601507.us.archive.org/7/items/cronicas_de_caracas_aristides_
 biblioteca: http://www.worldcat.org/oclc/948412987
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

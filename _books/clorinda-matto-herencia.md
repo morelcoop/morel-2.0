@@ -14,7 +14,6 @@ descarga: https://ia601404.us.archive.org/8/items/herencianovelap00turngoog_2020
 biblioteca: http://www.worldcat.org/oclc/3658654
 comprar: https://amzn.to/3hdPZf2
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

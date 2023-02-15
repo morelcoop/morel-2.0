@@ -14,7 +14,6 @@ descarga: https://ia601405.us.archive.org/16/items/versos-angel-polibio-chaves/V
 biblioteca: http://www.worldcat.org/oclc/3665106
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 ANSIEDAD

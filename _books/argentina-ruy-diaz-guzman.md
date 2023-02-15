@@ -14,6 +14,7 @@ descarga: https://ia801408.us.archive.org/25/items/diaz-de-guzman-ruy.-la-argent
 biblioteca: http://www.worldcat.org/oclc/299402478
 comprar: https://amzn.to/35hOAAL
 periodo: "Colonial"
+featured: false
 ---
  
 

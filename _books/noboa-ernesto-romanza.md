@@ -14,7 +14,6 @@ descarga: https://ia601509.us.archive.org/34/items/fr-1-l-000506-noboa-romanza/F
 biblioteca: http://www.worldcat.org/oclc/253566348
 comprar: https://amzn.to/2Fu9X7p
 periodo: "Siglo XX"
-feature: 
 ---
  
 Y así, sangre-azulada de tristeza,

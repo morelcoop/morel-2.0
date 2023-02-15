@@ -14,7 +14,6 @@ descarga: https://ia801501.us.archive.org/6/items/teatro-completo-ii-herrera-ern
 biblioteca: http://www.worldcat.org/oclc/4854032
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 ALFREDO.- Mañana volverá él, y volverás a ser suya. Porque le perteneces... porque eres de él. Eres de él, mal que nos pese!

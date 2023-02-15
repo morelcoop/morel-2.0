@@ -14,7 +14,6 @@ descarga:  https://ia601408.us.archive.org/28/items/el-doctor-bebe-novela_202010
 biblioteca: http://www.worldcat.org/oclc/253263282
 comprar: https://amzn.to/3k8xWbt
 periodo: "Siglo XX"
-feature: 
 ---
  
 

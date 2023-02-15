@@ -14,7 +14,7 @@ descarga: https://ia601406.us.archive.org/4/items/anecdotario-hondureno/Anecdota
 biblioteca: http://www.worldcat.org/oclc/500579423
 comprar:
 periodo: "Siglo XX"
-feature: 
+featured: false
 ---
  
 Guarde su cuchillo, don Josesito, que con él no me asusta -le replicó Tuche con sorna. No me confunda con los infelices a quienes usted afrentó. Yo estoy acostumbrado a vérmelas con hombrones y desprecio a los muñecos de su calibre. 

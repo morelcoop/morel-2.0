@@ -14,7 +14,6 @@ descarga: https://ia801502.us.archive.org/19/items/languidez-alfonsina-storni/La
 biblioteca: http://www.worldcat.org/oclc/1114164355
 comprar: https://www.amazon.com/gp/product/027447882X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=027447882X&linkCode=as2&tag=morelcoop-20&linkId=fc8561f93fb557e2062a43cae090e024
 periodo: "Siglo XX"
-feature: 
 ---
  
 LA PIEDAD DEL CIPRÉS

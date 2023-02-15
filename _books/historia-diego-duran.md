@@ -14,7 +14,6 @@ descarga: https://ia601506.us.archive.org/30/items/historia-de-las-indias-de-nue
 biblioteca: http://www.worldcat.org/oclc/162657826
 comprar: https://amzn.to/2YGMZ3p
 periodo: "Colonial"
-feature: 
 ---
  
 Fueron siempre los hechos y proezas de los mexicanos tan llenos de hazañas, que á los que no lo saben y á ellos conoce y dado que no los conozca, no dejarán de recibir gusto y contento de saber sus antiguallas, con la sucesión y principios suyos, con otros muchos acontecimientos que po ellos pasaron dignos de memoria.

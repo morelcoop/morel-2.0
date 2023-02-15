@@ -15,7 +15,6 @@ descarga: https://ia803200.us.archive.org/33/items/pedro_simon-noticias_historia
 tag: "Colonial"
 biblioteca: 
 comprar: 
-feature: 
 ---
  
 

@@ -14,7 +14,6 @@ descarga: https://ia601403.us.archive.org/14/items/poesia-jose-asuncion-silva/Po
 biblioteca: http://www.worldcat.org/oclc/4769313
 comprar: https://amzn.to/2EC7KpO
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

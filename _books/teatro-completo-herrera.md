@@ -15,7 +15,6 @@ descarga: https://ia801507.us.archive.org/21/items/teatro-completo-1-herrera-ern
 biblioteca: http://www.worldcat.org/oclc/4854032
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 JUAN.- Dispués... La muchacha se había quedau muy tristona dente que los patrones se jueron... y un día desapareció.

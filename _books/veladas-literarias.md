@@ -14,7 +14,6 @@ descarga: https://ia601502.us.archive.org/4/items/historia-general-de-las-cosas-
 biblioteca: http://www.worldcat.org/oclc/647333759
 comprar: https://amzn.to/3nZFGik
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Las mujeres encerradas en el Callao eran las que más activamente conspiraban. Los soldados del general Salom llegaban de noche, hasta ponerse á tiro de fusil y gritaban:

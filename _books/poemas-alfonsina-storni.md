@@ -14,6 +14,7 @@ descarga: https://ia601404.us.archive.org/31/items/poemas-alfonsina-storni/Poema
 biblioteca: http://www.worldcat.org/oclc/1111645531
 comprar: 
 periodo: "Siglo XX"
+featured: false
 ---
  
 Pudiera ser que todo lo que en verso he sentido

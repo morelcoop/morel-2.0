@@ -14,7 +14,7 @@ descarga: https://ia601508.us.archive.org/23/items/el-lazarillo-de-ciegos-camina
 biblioteca: http://www.worldcat.org/oclc/496490367
 comprar: https://amzn.to/34xBLlH
 periodo: "Siglo XIX"
-feature: 
+featured: false
 ---
  
 

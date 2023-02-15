@@ -14,7 +14,6 @@ descarga: https://ia601400.us.archive.org/23/items/la-virgen-del-sol-juan-leon-m
 biblioteca: http://www.worldcat.org/oclc/793554377
 comprar: https://amzn.to/3i5UcAW
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

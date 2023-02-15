@@ -12,7 +12,6 @@ img: Tulio_Febres_Cordero-El_nombre_de_America-MOREL.jpg
 descarga: https://ia601506.us.archive.org/23/items/el_nombre_de_america_/el_nombre_de_america_.pdf
 comprar: https://amzn.to/31koWJR
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

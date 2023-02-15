@@ -14,7 +14,6 @@ descarga: https://ia601501.us.archive.org/15/items/masferrer-humorista.-jose-mar
 biblioteca: http://www.worldcat.org/oclc/1126278170
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 "Herrar o quitar el banco", dice el proverbio: adaptarse al medio, o irse del país o irse de este mundo.

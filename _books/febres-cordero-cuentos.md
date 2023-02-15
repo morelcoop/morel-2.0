@@ -14,7 +14,6 @@ descarga: https://ia601508.us.archive.org/20/items/tulio-febres-cordero-cuentos/
 biblioteca: http://www.worldcat.org/oclc/760610050
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 

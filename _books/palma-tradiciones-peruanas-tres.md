@@ -14,7 +14,6 @@ descarga: https://ia601505.us.archive.org/23/items/tradiciones-peruanas-iii/Trad
 biblioteca: http://www.worldcat.org/oclc/252662568
 comprar: https://amzn.to/3bkISzm
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

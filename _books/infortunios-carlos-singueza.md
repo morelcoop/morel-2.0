@@ -14,7 +14,6 @@ descarga: https://ia601503.us.archive.org/20/items/infortunios-de-alonso-ramirez
 biblioteca: http://www.worldcat.org/oclc/490542891
 comprar: https://amzn.to/3jkHpvP
 periodo: "Colonial"
-feature: 
 ---
  
 

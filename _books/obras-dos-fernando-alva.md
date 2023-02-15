@@ -14,7 +14,6 @@ descarga: https://ia601500.us.archive.org/16/items/obras-historicas-ii-fernando-
 biblioteca: http://www.worldcat.org/oclc/23319182
 comprar: https://amzn.to/2FjskM3
 periodo: "Colonial"
-feature: 
 ---
  
 Quetzalcoatl por interpretación literal, significa sierpe de plumas preciosas; por sentido alegórico varón sapientísimo; y Huemac, dicen unos que le pusieron este nombre porque imprimió y estampó sobre una peña sus manos, como si fuera en cera blanda, en testimonio de que se cumpliría todo lo que les dejó dicho. Otros quiere decir que significa el de la mano grande ó poderosa.

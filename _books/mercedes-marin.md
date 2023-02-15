@@ -14,7 +14,6 @@ descarga: https://ia601500.us.archive.org/4/items/venezuela-heroica-eduardo-blan
 biblioteca: http://www.worldcat.org/oclc/1102082889
 comprar: https://amzn.to/34jpOhV
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Cunde el terror en todos los corazones. Mina la desconfianza el entusiasmo del soldado. Caracas se estremece de espanto, como si ya golpearan á sus puertas las huestes del feroz asturiano. Decae la fe en los más alentados. Una parálisis violenta producida por el terror amenaza anonadar al patriotismo. Cual si uno de los gigantes de la andina cordillera hubiese vomitado improviso una tempestad de lavas y escorias capaces de soterrar el continente americano, todo tiembla y todo se derrumba. 

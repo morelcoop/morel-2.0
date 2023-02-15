@@ -14,7 +14,6 @@ descarga: https://ia601402.us.archive.org/9/items/el-marques-de-talamanca-carlos
 biblioteca: http://www.worldcat.org/oclc/11694734
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

@@ -14,7 +14,6 @@ descarga: https://ia801507.us.archive.org/16/items/madre-culpable-amelia-francas
 biblioteca: http://www.worldcat.org/oclc/20805035
 comprar: https://amzn.to/3ih6hn8
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Cuando los jóvenes se presentaron en el salón de la viuda de Rivero, hallaron que ésta y su hija les aguardaban ya. María estaba sentada á alguna distancia de su madre, y parecía más bien una víctima que se prepara á un sacrificio que álguien dispuesto á pasar un rato agradable. 

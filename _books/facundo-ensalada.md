@@ -14,7 +14,6 @@ descarga: https://ia601503.us.archive.org/12/items/ensalada-de-pollos-facundo/En
 biblioteca: http://www.worldcat.org/oclc/651276864
 comprar: https://amzn.to/2ESEQ5B
 periodo: "Siglo XIX"
-feature: 
 ---
  
 La mujer y el rebozo son el único matrimonio completamente feliz: sobre los hombros de la propietaria se adapta á un millón de partidos de paños como dicen los pintores.

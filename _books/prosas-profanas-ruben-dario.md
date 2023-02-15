@@ -14,7 +14,6 @@ descarga: https://ia801409.us.archive.org/3/items/prosas-profanas-ruben-dario/Pr
 biblioteca: http://www.worldcat.org/oclc/7517102
 comprar: https://amzn.to/3kqVYOU
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Mi pobre alma pálida 

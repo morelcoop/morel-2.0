@@ -12,7 +12,6 @@ img: Daniel_O'Leary-gran-colombia_y_espana_1819_1822.jpg
 descarga: https://ia601409.us.archive.org/5/items/daniel-o-leary-gran-colombia-y-espana-1819-1822/Daniel_O%27Leary-gran-colombia_y_espana_1819_1822.pdf
 comprar: https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=morelcoop-20&keywords="general o'leary"&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=acdb3171ad84e18582adb225ef0ce7ce
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

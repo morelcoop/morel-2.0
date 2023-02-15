@@ -14,7 +14,6 @@ descarga: https://ia601400.us.archive.org/16/items/vida-criolla/Vida%20criolla.p
 biblioteca: http://www.worldcat.org/oclc/912856471
 comprar: https://amzn.to/3moPoub
 periodo: "Siglo XX"
-feature: 
 ---
  
 

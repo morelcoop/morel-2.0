@@ -14,7 +14,6 @@ descarga: https://ia801500.us.archive.org/27/items/las-siete-cuerdas-de-la-lira-
 biblioteca: http://www.worldcat.org/oclc/11707668
 comprar: https://amzn.to/3mQsQ5y
 periodo: "Siglo XX"
-feature: 
 ---
  
 Tomad ahora un pez, con escamas y aletas y espinas, y todo lo demás que le diferencia y caracteriza como una forma. He aquí, diríamos, una criatura que existe por sí misma, y que es, real y positivamente un ser; no una apariencia, sino una realidad. 

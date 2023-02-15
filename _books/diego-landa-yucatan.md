@@ -14,7 +14,6 @@ descarga: https://ia601504.us.archive.org/30/items/relaciones-de-yucatan-ii/Rela
 biblioteca: http://www.worldcat.org/oclc/4689041
 comprar: https://amzn.to/31LmrAb
 periodo: "Colonial"
-feature: 
 ---
  
 

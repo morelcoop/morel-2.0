@@ -14,7 +14,6 @@ descarga: https://ia601507.us.archive.org/32/items/compendiodelahistoriadelaspro
 biblioteca: http://www.worldcat.org/oclc/28598694
 comprar: https://amzn.to/31RPYqE
 periodo: "Siglo XIX"
-feature:
 tester: true
 ---
  

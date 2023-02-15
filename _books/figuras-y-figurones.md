@@ -14,7 +14,6 @@ descarga: https://ia601908.us.archive.org/26/items/figuras-y-figurones-manuel-pa
 biblioteca: http://www.worldcat.org/oclc/976824688
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 

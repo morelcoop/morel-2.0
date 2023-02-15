@@ -14,7 +14,6 @@ descarga: https://ia801407.us.archive.org/17/items/tierra-mares-y-cielos-juan-ra
 biblioteca: http://www.worldcat.org/oclc/470074992
 comprar: https://amzn.to/3idp5Ey
 periodo: "Siglo XX"
-feature: 
 ---
  
 

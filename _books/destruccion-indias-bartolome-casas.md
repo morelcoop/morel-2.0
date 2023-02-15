@@ -14,7 +14,6 @@ descarga: https://ia601508.us.archive.org/2/items/la-destruccion-de-las-indias-b
 biblioteca: http://www.worldcat.org/oclc/919733469
 comprar: https://amzn.to/3hiDS0c
 periodo: "Colonial"
-feature: 
 ---
  
 

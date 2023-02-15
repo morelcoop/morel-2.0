@@ -14,7 +14,6 @@ descarga: https://ia601401.us.archive.org/15/items/tomo-ii-historia-general-de-l
 biblioteca: http://www.worldcat.org/oclc/3509220
 comprar: https://amzn.to/3nGTmPd
 periodo: "Colonial"
-feature: 
 ---
  
 OTRO DÍA, por la mañana, acudieron muchas Canoas con Gente, pidiendo los Indios que havian quedado por rehenes: refpondiófeles, que diefen los Chriftianos. Eran ellos Indios de mejor talle, que los que halla entonces havian vifto, i entre ellos iban cinco, 6 feis Señores, con Mantas de Martas, i los cabellos largos, i fueltos.

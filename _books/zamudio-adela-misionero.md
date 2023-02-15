@@ -14,7 +14,6 @@ descarga: https://ia601404.us.archive.org/22/items/el-misionero-adela-zamudio/El
 biblioteca: http://www.worldcat.org/oclc/4597555
 comprar: https://amzn.to/32w5CIC
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

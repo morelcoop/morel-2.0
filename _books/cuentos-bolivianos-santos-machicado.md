@@ -14,7 +14,6 @@ descarga: https://ia601506.us.archive.org/18/items/cuentos-bolivianos/Cuentos%20
 biblioteca: http://www.worldcat.org/oclc/250384888
 comprar: https://amzn.to/2GeQckF
 periodo: "Siglo XX"
-feature: 
 ---
  
  

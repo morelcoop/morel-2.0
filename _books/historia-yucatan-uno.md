@@ -14,7 +14,6 @@ descarga: https://ia801402.us.archive.org/33/items/historia-de-yucatan-i-diego-l
 biblioteca: http://www.worldcat.org/oclc/835345075
 comprar: https://amzn.to/34HoWna
 periodo: "Colonial"
-feature: 
 ---
  
 

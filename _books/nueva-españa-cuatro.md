@@ -14,7 +14,6 @@ descarga: https://ia601509.us.archive.org/10/items/historia-general-de-las-cosas
 biblioteca: http://www.worldcat.org/oclc/248532420
 comprar:
 periodo: "Colonial"
-feature: 
 ---
  
 

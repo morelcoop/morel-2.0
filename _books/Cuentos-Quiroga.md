@@ -12,8 +12,9 @@ repurl: https://www.clacso.org.ar/biblioteca_ayacucho/
 img: Horacio_Quiroga_Cuentos_Morel.jpg
 descarga: https://ia800705.us.archive.org/4/items/CuentosQuirogaHoracio/Cuentos%20-%20Quiroga%2C%20Horacio.pdf
 biblioteca: http://www.worldcat.org/oclc/803310868
-comprar:
+comprar: 
 periodo: "Siglo XX"
+featured: false
 ---
  
 

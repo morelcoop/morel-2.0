@@ -14,7 +14,6 @@ descarga: https://ia601509.us.archive.org/13/items/estela_vida_numa_llona_Morel/
 biblioteca: http://www.worldcat.org/oclc/500342552
 comprar: https://amzn.to/3449lzl
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Tristeza indifinible ocupa el mundo

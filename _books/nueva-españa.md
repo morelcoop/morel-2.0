@@ -14,7 +14,6 @@ descarga: https://ia601502.us.archive.org/4/items/historia-general-de-las-cosas-
 biblioteca: http://www.worldcat.org/oclc/889925220
 comprar: https://amzn.to/31cbAi1
 periodo: "Colonial"
-feature: 
 ---
  
 10. —Pero malaventurados son, y entre los muertos está la esperanza de aquellos que llamaron dioses a las obras de manos de hombres, al oro y la plata, invención del arte, y a las semejanzas de animales, o a una piedra inútil obra de mano antigua.

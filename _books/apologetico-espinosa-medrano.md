@@ -14,7 +14,6 @@ descarga: https://ia601502.us.archive.org/20/items/apologetico-juan-de-espinosa-
 biblioteca: http://www.worldcat.org/oclc/1024328259
 comprar: https://amzn.to/2FKEL3O
 periodo: "Siglo XX"
-feature: 
 ---
  
 Alma poética dice Faría también que les pidió en Góngora: así suelen llamar la alegoría, que tramando la invención épica, sirve de fundamento al poema heroico; mas habiendo empleádose el espíritu de don Luis en lo erótico y lírico ¿qué mayor necedad, que pedir esta alma en sus obras? Mas si alma llamó las centellas del ardor intelectivo con que lúcidamente animó tan divino canto, mil almas tiene cada verso suyo, cada concepto mil vivezas.

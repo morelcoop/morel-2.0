@@ -17,7 +17,6 @@ epub: http://www.gutenberg.org/ebooks/50430.epub.noimages?session_id=55c08cb20d8
 biblioteca: http://www.worldcat.org/oclc/494123797
 comprar: https://amzn.to/2Fb4zGe
 periodo: "Colonial"
-feature: 
 ---
  
 A tres géneros de sacrificios podemos reducir todos los que usan estos infieles: unos de cosas insensibles, otros de animales, y otros de hombres. En el Perú usaron sacrificar coca, que es una yerba que mucho estiman, y maíz, que es su trigo, y plumas de colores, y chaquíra, que ellos llaman molió, y conchas de la mar, y a veces oro y plata, figurando de ello animalejos; también ropa fina de cúmbi, y madera labrada y olorosa, y muy ordinariamente sebo quemado.

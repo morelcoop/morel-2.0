@@ -14,7 +14,6 @@ descarga: https://ia601408.us.archive.org/3/items/recuerdos-de-mi-vida-juan-de-d
 biblioteca: http://www.worldcat.org/oclc/848767
 comprar: https://amzn.to/2CZ6OeV
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

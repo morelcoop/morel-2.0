@@ -14,7 +14,6 @@ descarga: https://ia601408.us.archive.org/11/items/la-voragine-jose-eustasio-riv
 biblioteca: http://www.worldcat.org/oclc/471558520
 comprar: https://amzn.to/32mQX3v
 periodo: "Siglo XX"
-feature: 
 ---
  
 

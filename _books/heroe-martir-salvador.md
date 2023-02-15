@@ -14,7 +14,6 @@ descarga: https://ia601408.us.archive.org/10/items/heroe-y-martir/Heroe%20y%20ma
 biblioteca: http://www.worldcat.org/oclc/11197622
 comprar: https://amzn.to/3i4S0JW
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Pad: Tú espíritu; 

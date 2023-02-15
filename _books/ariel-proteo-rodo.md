@@ -17,7 +17,6 @@ epub: http://www.gutenberg.org/ebooks/22899.epub.images?session_id=f8b1c3a67b520
 periodo: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/318209873
 comprar: https://amzn.to/34e5Jez
-feature:
 ---
  
 

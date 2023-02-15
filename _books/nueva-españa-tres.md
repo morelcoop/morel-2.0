@@ -14,7 +14,6 @@ descarga: https://ia601406.us.archive.org/12/items/historia-general-de-las-cosas
 biblioteca: http://www.worldcat.org/oclc/493959727
 comprar: https://amzn.to/3jbKaik
 periodo: "Colonial"
-feature: 
 ---
  
 Estos tales así llamados están hacia el nacimiento del sol, y llámanles también teñimos, porque hablan lengua bárbara, y dicen que son toltecas, que quiere decir oficiales de todos oficios, primos y sutiles en todo, y que son descendientes de los toltecas de que arriba se ha hecho mención. Y son muy ricos, porque sus tierras son muy ricas, fértiles y abundosas, donde se da todo género de bastimento en abundancia.

@@ -14,7 +14,6 @@ descarga: https://ia601501.us.archive.org/1/items/cieza-de-leon-pedro-la-cronica
 biblioteca: http://www.worldcat.org/oclc/954706708
 comprar: https://amzn.to/31U9gM5
 periodo: "Colonial"
-feature: 
 ---
  
 

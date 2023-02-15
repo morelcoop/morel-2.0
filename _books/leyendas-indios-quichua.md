@@ -14,7 +14,6 @@ descarga: https://ia801505.us.archive.org/21/items/leyendas-de-los-indios-quichu
 biblioteca: http://www.worldcat.org/oclc/163043999
 comprar: https://amzn.to/3bIHuGO
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

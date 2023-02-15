@@ -14,7 +14,6 @@ descarga: https://ia601401.us.archive.org/10/items/fantasias-indigenas-jose-joaq
 biblioteca: http://www.worldcat.org/oclc/796345374
 comprar: https://amzn.to/34D4Lsk
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

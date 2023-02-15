@@ -14,7 +14,6 @@ descarga: https://ia601408.us.archive.org/6/items/la-tristeza-de-la-cumbre.-el-c
 biblioteca: http://www.worldcat.org/oclc/63236291
 comprar:
 periodo: "Siglo XIX"
-feature: 
 ---
  
 RENE. —Nosotros, los que amamos el ideal y la belleza, y que despreciamos el retintín del dinero por oír la música de un Verdi y los versos de un Darío, somos los eternos desamparados de la sociedad y del dólar; pero, eso sí, atesoramos en nuestro corazón inmensos caudales de honradez y de virtud.

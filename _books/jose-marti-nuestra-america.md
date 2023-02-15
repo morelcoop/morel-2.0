@@ -14,7 +14,6 @@ descarga: https://ia801506.us.archive.org/12/items/nuestra-america-jose-marti/Nu
 biblioteca: http://www.worldcat.org/oclc/254316993
 comprar: https://amzn.to/2HrYKpl
 periodo: "Siglo XIX"
-feature: 
 ---
  
 En este pueblo de pescadores, trazado a cordel, sin una creencia que no vea una superstición, sin una aspiración, sin un respeto, los hombres emigran o hacen contrabandos; los marineros canarios, que azotan estos mares en busca del carnudo mero, entretienen los amantes ocios de estas mujeres bondadosas, dotadas de afabilidad extrema, inteligencia natural y gran ternura. Apenas albean resplandecientes el holgado hipil y el fustán blanco, y la saya y el rebozo han reemplazado en este pueblo mixto el traje primitivo.

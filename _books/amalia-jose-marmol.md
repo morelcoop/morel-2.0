@@ -14,7 +14,6 @@ descarga: https://ia601408.us.archive.org/28/items/amalia-jose-marmol/Amalia%20-
 biblioteca: http://www.worldcat.org/oclc/7044933
 comprar: https://amzn.to/3kNnvKl
 periodo: "Siglo XIX"
-feature: 
 ---
  
 —Pero, ¿crees tú...?

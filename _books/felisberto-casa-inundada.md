@@ -14,7 +14,7 @@ descarga:  https://ia601508.us.archive.org/35/items/felisberto-hernandez-la-casa
 biblioteca: http://www.worldcat.org/oclc/811589989
 comprar: https://amzn.to/3454JcC
 periodo: "Siglo XX"
-feature: 
+featured: false
 ---
  
 Aunque la señora Margarita y yo éramos los únicos fieles de carne y hueso, los recuerdos de agua que yo recibía en mi propia vida, en las intermitencias del relato, también me parecían fieles de esa religión; llegaban con lentitud, como si hubieran emprendido el viaje desde hacía mucho tiempo y apenas cometido un gran pecado.

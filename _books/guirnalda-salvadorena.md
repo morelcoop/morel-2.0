@@ -14,7 +14,6 @@ descarga: https://ia601508.us.archive.org/30/items/guirnalda-salvadorena-i-roman
 biblioteca: http://www.worldcat.org/oclc/561715369
 comprar: https://amzn.to/34Si8Dn
 periodo: "Siglo XX"
-feature: 
 ---
  
 ¡Feliz la vida oscura

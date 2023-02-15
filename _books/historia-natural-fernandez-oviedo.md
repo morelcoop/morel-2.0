@@ -14,7 +14,6 @@ descarga: https://ia601504.us.archive.org/6/items/historia-general-y-natural-de-
 biblioteca: http://www.worldcat.org/oclc/562514737
 comprar: https://amzn.to/346OqKp
 periodo: "Colonial"
-feature: 
 ---
  
 Quando este rio cresge, anega los campos de ambas costas, hasta muy gerca del pueblo llamado Arvacay. E quando mengua el rio van los indios tras el sembrado hasta que está en su curso; é desque va cresgiendo, van ellos comiendo desde lo postrero que sembraron, hasta venir á lo que está á par ó mas gercano de sus casas. E assi usan de las simientes en su agricoltura, como ven que les conviene é deben ser tardías é tempranas en sus géneros, segund el tiempo que tienen é les queda para gogar deltas. Y por imitar mas este rio al Nilo, se crian é hay en él muchos lagartos ó cocatrices de veynte pies ó mas de luengo ; é llámelos cocatriges, porque mandan é mueven tan fácilmente la mandíbula alta como la baxa.

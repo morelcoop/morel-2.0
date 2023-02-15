@@ -14,7 +14,6 @@ descarga: https://ia601503.us.archive.org/1/items/salome-vargas-vila/Salom%C3%A9
 biblioteca: http://www.worldcat.org/oclc/23745186
 comprar: https://amzn.to/3kNcI3N
 periodo: "Siglo XX"
-feature: 
 ---
  
 El Profeta no se desarmó, sus ojos, fulguraban de rencor, y, mostrándome con el índice, me apostrofaba como queriendo fulminarme con sus palabras; y gritaba:

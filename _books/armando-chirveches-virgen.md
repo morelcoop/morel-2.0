@@ -14,7 +14,6 @@ descarga: https://ia601405.us.archive.org/7/items/lavirgendellagopdf/lavirgendel
 biblioteca: http://www.worldcat.org/oclc/558764606
 comprar: https://amzn.to/3iPC9jz
 periodo: "Siglo XX"
-feature: 
 ---
  
 

@@ -14,7 +14,6 @@ descarga: https://ia601402.us.archive.org/6/items/poesiasdomingoestrada/poesiasd
 biblioteca: http://www.worldcat.org/oclc/15030308
 comprar: https://amzn.to/3au7SDQ
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

@@ -14,7 +14,6 @@ descarga: https://ia801504.us.archive.org/5/items/poesias-luis-montt/Poesias%20-
 biblioteca: http://www.worldcat.org/oclc/20077919
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 A una mujer

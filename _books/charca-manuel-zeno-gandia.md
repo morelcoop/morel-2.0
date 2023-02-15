@@ -14,7 +14,6 @@ descarga: https://ia601407.us.archive.org/30/items/la-charca-manuel-zeno-gandia/
 biblioteca: http://www.worldcat.org/oclc/971152503
 comprar: https://amzn.to/2S0uF1v
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Multitud de campesinos en las dos orillas lanzaban gritos prolongados que difundían la alarma. De vez en cuando el sonido lúgubre de una bocina avisaba el peligro: era un caracol en cuyo cóncavo la voz humana se reforzaba, tomando proporciones de eco grandioso, de terrible sentencia de los dioses.

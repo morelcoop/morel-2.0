@@ -14,7 +14,6 @@ descarga: https://ia601400.us.archive.org/2/items/cuento-de-marinos-francisco-ga
 biblioteca: http://www.worldcat.org/oclc/9920788
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 Como yo he viajado tanto!. . .

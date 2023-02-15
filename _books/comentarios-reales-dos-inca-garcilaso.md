@@ -13,7 +13,6 @@ descarga: https://ia601502.us.archive.org/9/items/comentarios-reales-2-inca-garc
 biblioteca: http://www.worldcat.org/oclc/613079770
 comprar: https://amzn.to/3au2Siy
 periodo: "Colonial"
-feature: 
 ---
  
 

@@ -14,7 +14,6 @@ descarga: https://ia801502.us.archive.org/28/items/cuentos-de-mi-tia-panchita/Cu
 biblioteca: http://www.worldcat.org/oclc/894757254
 comprar: https://amzn.to/34KPsfE
 periodo: "Siglo XX"
-feature: 
 ---
  
 Los cuentos de la tía Panchita eran humildes llaves de hierro que abrían arcas cuyo contenido era un tesoro de ensueños.

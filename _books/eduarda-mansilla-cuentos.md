@@ -14,7 +14,6 @@ descarga: https://ia803107.us.archive.org/24/items/cuentoseduardamansilladegarci
 biblioteca: http://www.worldcat.org/oclc/8641678
 comprar: https://amzn.to/3gYxYBt
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

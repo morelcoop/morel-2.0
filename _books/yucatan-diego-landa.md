@@ -14,7 +14,6 @@ descarga: https://ia601509.us.archive.org/25/items/relaciones-de-yucatan-i/Relac
 biblioteca: http://www.worldcat.org/oclc/4689041
 comprar: https://amzn.to/31GP9C1
 periodo: "Siglo XIX"
-feature: 
 ---
  
 —las enfermedades que los naturales comunmente tienen son calenturas y frios y dolores de pechos, y no tienen otra cura sino con yerbas y raíces y se guardan muy mal, porque todos son amigos de bañarse con agua fría estando con la calentura, y usan de sangrarse en la parte que les duele y esto les mata. 

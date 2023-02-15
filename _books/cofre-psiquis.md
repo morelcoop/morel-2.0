@@ -14,7 +14,6 @@ descarga: https://ia601507.us.archive.org/17/items/el-cofre-de-psiquis/El%20cofr
 biblioteca: http://www.worldcat.org/oclc/949287691
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 ¡Salve, Venus de Milo, alba de arte pagano! 

@@ -14,7 +14,6 @@ descarga: https://ia601403.us.archive.org/7/items/caminos-silenciosos/caminos%20
 biblioteca: http://www.worldcat.org/oclc/433363531
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 La Luna era un fantasma; el mar una laguna

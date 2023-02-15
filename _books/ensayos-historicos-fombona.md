@@ -15,7 +15,6 @@ descarga: https://ia601505.us.archive.org/3/items/ensayos-historicos-rufino-blan
 tag: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/1043994394
 comprar: https://amzn.to/3mELSen
-feature:
 ---
  
 

@@ -14,7 +14,6 @@ descarga: https://ia601400.us.archive.org/18/items/el-cencerro-de-cristal-ricard
 biblioteca: http://www.worldcat.org/oclc/4769313
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

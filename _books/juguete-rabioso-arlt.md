@@ -13,7 +13,7 @@ descarga: https://ia601401.us.archive.org/25/items/el-juguete-rabioso-arlt/El_ju
 biblioteca: http://www.worldcat.org/oclc/760670373
 comprar: https://amzn.to/3fSBP1u
 periodo: "Siglo XX"
-feature: 
+featured: false
 ---
  
 

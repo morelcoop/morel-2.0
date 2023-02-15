@@ -14,6 +14,7 @@ descarga: https://ia800705.us.archive.org/4/items/CuentosQuirogaHoracio/Cuentos%
 biblioteca: http://www.worldcat.org/oclc/803310868
 comprar:
 periodo: "Siglo XX"
+featured: false
 ---
  
 

@@ -14,7 +14,6 @@ descarga: https://ia601404.us.archive.org/10/items/los-piratas-en-cartagena/Los%
 biblioteca: http://www.worldcat.org/oclc/1002256711
 comprar: https://amzn.to/3cHWF3P
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

@@ -14,7 +14,6 @@ descarga: https://ia601504.us.archive.org/27/items/los-calices-vacios-poesias/Lo
 biblioteca: http://www.worldcat.org/oclc/557015269
 comprar: https://amzn.to/37snS9I
 periodo: "Siglo XX"
-feature: 
 ---
  
 El Cisne

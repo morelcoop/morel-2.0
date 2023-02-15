@@ -14,7 +14,6 @@ descarga: https://ia601403.us.archive.org/7/items/pregon-de-marimorena-virginia-
 biblioteca: http://www.worldcat.org/oclc/1136895852
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

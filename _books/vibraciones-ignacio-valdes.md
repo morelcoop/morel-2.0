@@ -14,7 +14,6 @@ descarga: https://ia601405.us.archive.org/29/items/vibraciones-poesias-ignacio-d
 biblioteca: http://www.worldcat.org/oclc/20918969
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 Amo los viejos bosques talados

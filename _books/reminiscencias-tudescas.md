@@ -14,7 +14,6 @@ descarga: https://ia801408.us.archive.org/0/items/so16_reminiscenciasTudescas/so
 biblioteca: http://www.worldcat.org/oclc/964778683
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 En el fresco sótano me complazco yo. Y sobre los muros, a diestra y siniestra, y en el fondo, podían leerse otras citas tomadas todas ellas de cantos populares, en su mayor parte de los preferidos por los estudiantes, quienes a la tarea de beber y de fumar añaden la de entonar a voz en cuello sus hermosas y sentimentales canciones, en las que se respira el aliento tradicional de las razas teutónicas. 

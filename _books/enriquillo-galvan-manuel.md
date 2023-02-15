@@ -14,7 +14,6 @@ descarga: https://ia601404.us.archive.org/27/items/enriquillo-leyenda-historica-
 biblioteca: http://www.worldcat.org/oclc/669308552
 comprar: https://amzn.to/3kpKewB
 periodo: "Siglo XIX"
-feature: 
 ---
  
 La pobre María estuvo á punto de perder la razón, cuando leyó la despedida de su amante.

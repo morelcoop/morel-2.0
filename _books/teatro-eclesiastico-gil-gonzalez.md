@@ -14,7 +14,6 @@ descarga: https://ia801501.us.archive.org/1/items/teatro-eclesiastico-gil-gonzal
 biblioteca: http://www.worldcat.org/oclc/23623928
 comprar: https://amzn.to/3bQi1eC
 periodo: "Colonial"
-feature: 
 ---
  
 

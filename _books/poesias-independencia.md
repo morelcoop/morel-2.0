@@ -15,7 +15,6 @@ descarga: https://ia601404.us.archive.org/30/items/poesia-de-la-independencia/Po
 biblioteca: http://www.worldcat.org/oclc/731034333
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

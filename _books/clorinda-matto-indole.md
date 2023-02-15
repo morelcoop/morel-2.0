@@ -14,7 +14,6 @@ descarga: https://ia601402.us.archive.org/3/items/indole-clorinda-matto/indole%2
 biblioteca: http://www.worldcat.org/oclc/1072151099
 comprar: https://amzn.to/3iKdXPg
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

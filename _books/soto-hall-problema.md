@@ -14,7 +14,6 @@ descarga: https://ia601506.us.archive.org/1/items/el-problema-maxino-soto-hall/E
 biblioteca: http://www.worldcat.org/oclc/733656517
 comprar: https://amzn.to/3b50Sh1
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

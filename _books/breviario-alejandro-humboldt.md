@@ -15,7 +15,6 @@ descarga: https://ia601507.us.archive.org/34/items/breviario-del-nuevo-mundo/Bre
 tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/1142815052
 comprar: https://amzn.to/3jXA1GJ
-feature:
 ---
  
 

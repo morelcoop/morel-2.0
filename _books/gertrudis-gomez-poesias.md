@@ -14,7 +14,6 @@ descarga: https://ia601403.us.archive.org/8/items/poesias-gertrudis-gomez-de-ave
 biblioteca: http://www.worldcat.org/oclc/733444268
 comprar: https://amzn.to/3k9MSq2
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Oh tú, del alto cielo

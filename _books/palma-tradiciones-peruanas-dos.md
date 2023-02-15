@@ -14,7 +14,7 @@ descarga: https://ia601403.us.archive.org/21/items/tradiciones-peruanas-ii/Tradi
 biblioteca: http://www.worldcat.org/oclc/252662514
 comprar: https://amzn.to/3bm2p2b
 periodo: "Siglo XIX"
-feature: 
+featured: false
 ---
  
 Diga lo que quiera Garcilaso, el delicadísimo poeta toledano; pero tengo para mí que no anduvo muy moral ni en lo verdadero cuando es cribió aquellos dos versos, que saben de coro hasta las monjas y los niños de la doctrina: 

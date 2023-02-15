@@ -14,7 +14,6 @@ descarga: https://ia601401.us.archive.org/24/items/poesias-jocosas/Poes%C3%ADas%
 biblioteca: http://www.worldcat.org/oclc/612897279
 comprar: https://amzn.to/2FxTZZK
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

@@ -14,7 +14,6 @@ descarga: https://ia803006.us.archive.org/6/items/InmortalAmoresDeLoca/Inmortal%
 biblioteca: 
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

@@ -14,7 +14,6 @@ descarga: https://ia801409.us.archive.org/1/items/7-ensayos-de-interpretacion-de
 biblioteca: http://www.worldcat.org/oclc/848808738
 comprar: https://amzn.to/3la9Pt3
 periodo: "Siglo XX"
-feature: 
 ---
  
 Identificada con el régimen social y político, la religión inkaica no pudo sobrevivir al Estado inkaico. Tenía fines temporales más que fines espirituales. Se preocupaba del reino de la tierra antes que del reino del cielo. Constituía una disciplina social más que una disciplina individual. El mismo golpe hirió de muerte la teocracia y la teogonía. Lo que tenía que subsistir de esta religión, en el alma indígena, había de ser, no una concepción metafísica, sino los ritos agrarios, las prácticas mágicas y el sentimiento panteísta.

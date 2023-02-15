@@ -14,7 +14,6 @@ descarga: https://ia601406.us.archive.org/22/items/un-idilio-nuevo-tomo-i-luis-o
 biblioteca: http://www.worldcat.org/oclc/834162421
 comprar: https://amzn.to/3hzubKm
 periodo: "Siglo XX"
-feature: 
 ---
  
 

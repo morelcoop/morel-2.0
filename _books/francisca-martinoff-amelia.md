@@ -14,7 +14,6 @@ descarga: https://ia601509.us.archive.org/31/items/franciscamartinfran/francisca
 biblioteca: http://www.worldcat.org/oclc/1090843899
 comprar: https://amzn.to/3g0TXpK
 periodo: "Siglo XX"
-feature: 
 ---
  
 

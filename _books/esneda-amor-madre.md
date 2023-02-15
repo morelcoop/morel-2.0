@@ -14,7 +14,6 @@ descarga: https://ia801407.us.archive.org/27/items/esneda-o-amor-de-madre/Esneda
 biblioteca: http://www.worldcat.org/oclc/22304617
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Esneda se alegró porque uno de ellos,

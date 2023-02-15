@@ -14,7 +14,6 @@ descarga: https://ia601502.us.archive.org/6/items/poesias-escogidas-sor-juana/Po
 biblioteca: http://www.worldcat.org/oclc/18931591
 comprar: https://amzn.to/3kLqG69
 periodo: "Colonial"
-feature: 
 ---
  
 A estos peñascos rudos,

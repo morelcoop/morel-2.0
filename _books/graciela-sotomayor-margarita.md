@@ -14,7 +14,6 @@ descarga: https://ia601407.us.archive.org/33/items/margarita-graciela-sotomayor/
 biblioteca: http://www.worldcat.org/oclc/1048804150
 comprar: https://amzn.to/2S3Atr9
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Desde entonces poblándose va el cielo

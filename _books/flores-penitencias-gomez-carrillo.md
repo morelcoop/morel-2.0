@@ -14,7 +14,6 @@ descarga: https://ia601400.us.archive.org/22/items/flores-de-penitencia/Flores%2
 biblioteca: http://www.worldcat.org/oclc/1090843821
 comprar: https://amzn.to/2S2J0e7
 periodo: "Siglo XX"
-feature: 
 ---
  
 

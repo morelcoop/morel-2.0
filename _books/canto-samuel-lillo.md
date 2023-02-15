@@ -14,7 +14,6 @@ descarga: https://ia601402.us.archive.org/31/items/canto-samuel-a.-lillo/Canto%2
 biblioteca: http://www.worldcat.org/oclc/803167894
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 

@@ -14,7 +14,6 @@ descarga: https://ia601401.us.archive.org/21/items/tomo-i-historia-general-de-lo
 biblioteca: http://www.worldcat.org/oclc/16109253
 comprar: https://amzn.to/3nGTmPd
 periodo: "Colonial"
-feature: 
 ---
  
 Llegado Francifco Pizarro por Tierra al Señorío de Abrayme, como de las

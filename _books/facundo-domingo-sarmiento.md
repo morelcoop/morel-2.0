@@ -15,7 +15,6 @@ epub: http://www.gutenberg.org/ebooks/33267.epub.images?session_id=f8b1c3a67b520
 biblioteca: http://www.worldcat.org/oclc/40897973
 comprar: https://amzn.to/3aqeS4B
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

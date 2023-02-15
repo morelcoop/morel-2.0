@@ -14,7 +14,6 @@ descarga: https://ia601502.us.archive.org/10/items/recuerdos-de-la-guerra-del-pa
 biblioteca: http://www.worldcat.org/oclc/221774434
 comprar: https://amzn.to/2H7i8r6
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Pesaba, pues, enormemente esta contienda en los destinos de las naciones beligerantes, sobre todo, en el pueblo paraguayo que luchaba con desventaja contra tres naciones de más población y mayor riqueza, que disponían de grandes elementos, que en relación á su adversario, eran inagotables.

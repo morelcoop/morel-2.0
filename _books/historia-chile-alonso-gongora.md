@@ -14,7 +14,6 @@ descarga: https://ia801500.us.archive.org/3/items/historia-de-chile-alonso-de-go
 biblioteca: http://www.worldcat.org/oclc/1025771802
 comprar: https://amzn.to/35uLpp
 periodo: "Colonial"
-feature: 
 ---
  
 

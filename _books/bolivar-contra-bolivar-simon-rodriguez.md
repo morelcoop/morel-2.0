@@ -14,7 +14,6 @@ descarga: https://ia601408.us.archive.org/32/items/bolivar-contra-bolivar/Boliva
 biblioteca: 
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

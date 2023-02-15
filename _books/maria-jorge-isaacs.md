@@ -14,7 +14,7 @@ descarga: https://ia601400.us.archive.org/25/items/maria-jorge-isaacs-2/Maria_Jo
 biblioteca: http://www.worldcat.org/oclc/971151056
 comprar: https://amzn.to/2PRSB6m
 periodo: "Siglo XIX"
-feature: 
+featured: false
 ---
  
 A MI REGRESO, que hice lentamente, la imagen de María volvió a asirse a mi memoria. Aquellas soledades, sus bosques silenciosos, sus flores, sus aves y sus aguas, ¿por qué me hablaban de ella? ¿Qué había allí de María?

@@ -14,7 +14,6 @@ descarga: https://ia601506.us.archive.org/6/items/el-triunfo-liberal-alejandro-g
 biblioteca: http://www.worldcat.org/oclc/56803560
 comprar: https://amzn.to/3lxeC9d
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Ved á GUZMAZ! Sobre corcel brioso

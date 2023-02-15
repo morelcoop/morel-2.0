@@ -14,7 +14,6 @@ descarga: https://ia601504.us.archive.org/16/items/treinta-anos-de-mi-vida/Trein
 biblioteca: http://www.worldcat.org/oclc/844637209
 comprar: https://amzn.to/3dijLhq
 periodo: "Siglo XX"
-feature: 
 ---
  
 Perdóname... Por muy egoísta que yo sea, no tengo derecho a obligarte así a padecer a mi lado sin tener siquiera una esperanza... De mi tierra nada aguardo yo: te lo confieso... Y ¿de qué soy capaz?... ¿para qué sirvo?... ¿en qué puedo ganar nuestro pan?... ¡Oh, mi Alice, tan inútil me siento, que me parece que no sabría ni robar!... Ahora mi único deber es encontrar lo necesario para que tú vuelvas a París... En cuanto a mí, Dios dirá... Me moriré de hambre en uno de estos bancos... o me mataré... Dios dirá... Dios dirá...

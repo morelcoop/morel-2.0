@@ -14,7 +14,6 @@ descarga: https://ia801508.us.archive.org/20/items/los-aborigenes-de-costa-rica-
 biblioteca: http://www.worldcat.org/oclc/318460911
 comprar: 
 periodo: "Siglo XX"
-feature:
 
 ---
  

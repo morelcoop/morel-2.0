@@ -14,7 +14,7 @@ descarga: https://ia601400.us.archive.org/28/items/don-simon-rodriguez-gonzalo-p
 biblioteca: http://www.worldcat.org/oclc/253220335
 comprar: 
 periodo: "Siglo XIX"
-feature: 
+featured: false
 ---
  
 

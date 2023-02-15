@@ -14,7 +14,6 @@ descarga: https://ia601408.us.archive.org/33/items/relatos-jose-maria-roa-barcen
 biblioteca: http://www.worldcat.org/oclc/1097843840
 comprar: https://amzn.to/3gBeQZ9
 periodo: "Siglo XIX"
-feature: 
 ---
  
 −¡Maldito dormir, que de nada me ha servido sino de sudar frío y sentir más molidos los huesos! ¡Y malditos sueño e imaginación mía, que me convirtieron en actor en un lance, que no baja de treinta años que oí referir en una de mis expediciones y de que no me había vuelto a acordar! El tinglado bajo el cual dormía yo, o, más bien dicho, soñaba  que dormía, se columpiaba como a impulsos de un terremoto con las mecidas del hombre aquel. ¡Y luego, sus ojos, aquellos ojos de mirada satánica, fija en mí y que me penetraba hasta la médula de los huesos!

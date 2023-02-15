@@ -14,7 +14,6 @@ descarga: https://ia601508.us.archive.org/20/items/versos-carlos-roxlo/Versos_-_
 biblioteca: 
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 Extendida la vela zumbadora

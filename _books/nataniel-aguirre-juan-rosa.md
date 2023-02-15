@@ -14,6 +14,7 @@ descarga: https://ia801904.us.archive.org/28/items/juan-de-la-rosa-nataniel-agui
 biblioteca: http://www.worldcat.org/oclc/1055483064
 comprar: https://amzn.to/3apJi76
 periodo: "Siglo XIX"
+featured: false
 ---
  
 

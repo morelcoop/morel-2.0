@@ -14,7 +14,6 @@ descarga: https://ia601509.us.archive.org/10/items/raza-de-bronce-alcides-argued
 biblioteca: http://www.worldcat.org/oclc/155391018
 comprar: https://amzn.to/350JGIu
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

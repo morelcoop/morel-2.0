@@ -12,7 +12,6 @@ img: Elegias_de_varones_ilustres_de_Indias-Juan_de_Castellanos.jpg
 descarga: https://archive.org/download/elegias-de-varones-ilustres-de-indias-1/Eleg%C3%ADas_de_varones_ilustres_de_Indias%20%281%29.pdf
 comprar: https://amzn.to/31koWJR
 periodo: "Colonial"
-feature: 
 ---
  
 

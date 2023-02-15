@@ -14,7 +14,6 @@ descarga: https://ia601405.us.archive.org/10/items/poesias-rodulfo-figueroa/Poes
 biblioteca: http://www.worldcat.org/oclc/50575886
 comprar: https://amzn.to/33CbUaa
 periodo: "Siglo XX"
-feature: 
 ---
  
 Yo padezco, Doctor, un mal extraño 

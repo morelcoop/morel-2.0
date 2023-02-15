@@ -14,7 +14,6 @@ descarga: https://ia601506.us.archive.org/28/items/historia-general-de-las-cosas
 biblioteca: http://www.worldcat.org/oclc/929291227
 comprar: https://amzn.to/37kTA8X
 periodo: "Colonial"
-feature: 
 ---
  
 ¿Qué cosa y cosa una vieja monstruosa, debajo de tierra, que anda comiendo y royendo? Es el topo. 

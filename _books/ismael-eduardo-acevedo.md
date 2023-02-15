@@ -14,7 +14,6 @@ descarga: https://ia601507.us.archive.org/19/items/eduardo-acevedo-diaz.-ismael_
 biblioteca: http://www.worldcat.org/oclc/1025925057
 comprar: https://amzn.to/3b3OzkX
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

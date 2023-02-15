@@ -14,7 +14,6 @@ descarga: https://ia801502.us.archive.org/22/items/antologia-de-eugenio-maria-de
 biblioteca: http://www.worldcat.org/oclc/1039734585
 comprar: https://amzn.to/2ZGlPKT
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

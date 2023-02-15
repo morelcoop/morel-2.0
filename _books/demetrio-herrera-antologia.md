@@ -14,7 +14,6 @@ descarga: https://ia601402.us.archive.org/25/items/antologia-poetica-demetrio-he
 biblioteca: http://www.worldcat.org/oclc/15253570
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 He vuelto triste a mi tugurio. Triste. 

@@ -15,7 +15,6 @@ descarga: https://ia801409.us.archive.org/1/items/la-marquesa-de-yolombo/La_marq
 biblioteca: http://www.worldcat.org/oclc/906400912
 comprar: https://amzn.to/3eCXE69
 periodo: "Siglo XX"
-feature: true
 ---
  
 

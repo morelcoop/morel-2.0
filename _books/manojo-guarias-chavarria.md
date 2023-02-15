@@ -13,7 +13,6 @@ descarga: https://ia601502.us.archive.org/6/items/manojo-de-guarias/Manojo%20de%
 biblioteca: http://www.worldcat.org/oclc/24804262
 comprar: https://amzn.to/2EY6xK0
 periodo: "Siglo XX"
-feature: 
 ---
  
 Un manojo de guarías, 

@@ -15,7 +15,6 @@ descarga: https://ia601503.us.archive.org/35/items/historia-natural-y-moral-de-l
 biblioteca: http://www.worldcat.org/oclc/919765667
 comprar: https://amzn.to/3lZ0fur
 periodo: "Colonial"
-feature: 
 ---
  
 

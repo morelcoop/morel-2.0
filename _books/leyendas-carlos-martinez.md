@@ -15,7 +15,6 @@ descarga: https://ia601405.us.archive.org/12/items/leyendas-walker-martinez/Leye
 biblioteca: http://www.worldcat.org/oclc/862932730
 comprar: https://amzn.to/30pY3Dh
 periodo: "Siglo XIX"
-feature: 
 ---
  
 No tenía color el panorama

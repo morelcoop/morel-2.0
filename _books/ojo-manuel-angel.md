@@ -14,7 +14,6 @@ descarga: https://ia601509.us.archive.org/29/items/ojo-juguete-comico-en-un-acto
 biblioteca: http://www.worldcat.org/oclc/758753646
 comprar: https://amzn.to/2QDxTYh
 periodo: "Siglo XIX"
-feature: 
 ---
  
 PASC.(Pasa al lado de Elena.) Perdóneme usted y no se avergüence por eso. (Bajando la voz.) Yo suela hacer lo mismo.

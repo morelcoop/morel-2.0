@@ -14,7 +14,6 @@ descarga: https://ia601505.us.archive.org/18/items/el-jardin-del-silencio/El%20j
 biblioteca: http://www.worldcat.org/oclc/733542896
 comprar: 
 periodo: "Siglo XX"
-feature: 
 ---
  
 

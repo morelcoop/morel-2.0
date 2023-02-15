@@ -14,7 +14,6 @@ descarga: https://ia801402.us.archive.org/21/items/por-una-fortuna-una-cruz-marc
 biblioteca: http://www.worldcat.org/oclc/630124267
 comprar: 
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

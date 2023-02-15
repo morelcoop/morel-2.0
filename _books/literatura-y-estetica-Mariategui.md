@@ -12,6 +12,7 @@ img: Jose-Carlos-Mariátegui_Literatura y estética_MOREL.jpg
 descarga: https://ia601504.us.archive.org/27/items/jose-carlos-mariategui-literatura-y-estetica/Jose%CC%81%20Carlos%20Maria%CC%81tegui-Literatura%20y%20este%CC%81tica.pdf
 comprar: https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=morelcoop-20&keywords=josé carlos mariátegui&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=2ea4a3f86da3b52e3687156714f842b7
 periodo: "Siglo XX"
+featured: false
 ---
  
 

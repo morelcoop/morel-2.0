@@ -15,7 +15,6 @@ descarga: https://ia601408.us.archive.org/16/items/alma-de-idilio/Alma%20de%20id
 biblioteca: http://www.worldcat.org/oclc/1039492125
 comprar: https://amzn.to/31aDtae
 periodo: "Siglo XX"
-feature: 
 ---
  
 Surcando el poderoso mar de la vida

@@ -14,7 +14,6 @@ descarga: https://ia601506.us.archive.org/10/items/la-tierra-purpurea-alla-lejos
 biblioteca: http://www.worldcat.org/oclc/251850080
 comprar: https://amzn.to/3imIdAh
 periodo: "Siglo XIX"
-feature: 
 ---
  
 

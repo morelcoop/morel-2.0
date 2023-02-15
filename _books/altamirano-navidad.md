@@ -16,7 +16,6 @@ epub: http://www.gutenberg.org/ebooks/10825.epub.noimages?session_id=bed68536272
 biblioteca: http://www.worldcat.org/oclc/456785591
 comprar: https://amzn.to/31ztBHd
 periodo: "Siglo XIX"
-feature: 
 ---
  
 De este modo, el trabajo lo ha cambiado todo en el pueblo; y sin la guerra, que ha hecho sentir hasta estos desiertos su devastadora influencia, ya mis pobres feligreses, menos escasos de recursos, habrían mejorado completamente de situación; sus cosechas les habrían producido más, sus ganados, notablemente superiores á los demás del rumbo, habrían tenido más valor en los mercados, y la recompensa habría hecho nacer el estímulo en toda la comarca, todavía demasiado pobre.

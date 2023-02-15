@@ -14,7 +14,6 @@ descarga: https://ia601409.us.archive.org/7/items/armas-antarticas-juan-de-miram
 biblioteca: http://www.worldcat.org/oclc/34235979
 comprar: https://amzn.to/2EDKlES
 periodo: "Colonial"
-feature: 
 ---
  
 

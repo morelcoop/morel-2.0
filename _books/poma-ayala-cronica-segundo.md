@@ -14,7 +14,6 @@ descarga: https://ia601500.us.archive.org/32/items/nueva-coronica-y-buen-gobiern
 biblioteca: http://www.worldcat.org/oclc/489812052
 comprar: https://amzn.to/2DYU4VU
 periodo: "Colonial"
-feature: 
 ---
  
 

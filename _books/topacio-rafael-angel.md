@@ -14,7 +14,6 @@ descarga: https://ia601409.us.archive.org/2/items/topacios-cuentos-y-fantasias-p
 biblioteca: http://www.worldcat.org/oclc/903477783
 comprar: https://amzn.to/32EvYrN
 periodo: "Siglo XIX"
-feature: 
 ---
  
 −¡Ah! ¡Cuánto te amo! −me dijo, poniendo en sus palabras perfume de la flor de su corazón. Y nos besamos junto al océano, y bajo el firmamento de oro, entre aquellos dos infinitos, en un beso largo y profundo...

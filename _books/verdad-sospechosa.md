@@ -16,7 +16,6 @@ epub: http://www.gutenberg.org/ebooks/57590.epub.images?session_id=73c74f0b4bcfb
 biblioteca: http://www.worldcat.org/oclc/964455300
 comprar: https://amzn.to/2SlG38s
 periodo: "Colonial"
-feature: 
 ---
  
 Disimula y ten paciencia.
