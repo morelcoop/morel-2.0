@@ -14,6 +14,7 @@ descarga: https://ia601408.us.archive.org/18/items/romances-populares-y-vulgares
 biblioteca: http://www.worldcat.org/oclc/257763850
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

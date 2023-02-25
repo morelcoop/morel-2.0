@@ -14,6 +14,7 @@ descarga: https://ia801805.us.archive.org/28/items/deshojando-el-silencio/Deshoj
 biblioteca: http://www.worldcat.org/oclc/948877012
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
  

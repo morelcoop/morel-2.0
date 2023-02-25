@@ -14,6 +14,7 @@ descarga: https://ia803402.us.archive.org/11/items/rimas-altamirano/Rimas%20-%20
 biblioteca: http://www.worldcat.org/oclc/3744759
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
  

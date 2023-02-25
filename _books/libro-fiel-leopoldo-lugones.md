@@ -14,6 +14,7 @@ descarga: https://ia601506.us.archive.org/11/items/el-libro-fiel-leopoldo-lugone
 biblioteca: http://www.worldcat.org/oclc/561103963
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

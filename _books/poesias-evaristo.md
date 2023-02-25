@@ -14,6 +14,7 @@ descarga: https://ia601503.us.archive.org/17/items/poesias-de-evaristo-carriego/
 biblioteca: http://www.worldcat.org/oclc/848546029
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

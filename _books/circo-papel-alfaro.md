@@ -15,6 +15,7 @@ descarga: https://ia801406.us.archive.org/29/items/circo-de-papel-oscar-alfaro/C
 biblioteca: http://www.worldcat.org/oclc/609612585
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 featured: false
 ---
  

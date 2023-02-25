@@ -14,6 +14,7 @@ descarga: https://ia801509.us.archive.org/7/items/silva-obra-completa/SILVA%20-%
 biblioteca: http://www.worldcat.org/oclc/860102551
 comprar: https://amzn.to/2LcSbsa
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

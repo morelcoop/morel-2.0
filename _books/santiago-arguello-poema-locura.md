@@ -14,6 +14,7 @@ descarga: https://ia601409.us.archive.org/19/items/el-poema-de-la-locura-santiag
 biblioteca: http://www.worldcat.org/oclc/13658809
 comprar: https://amzn.to/2GcEhUo
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

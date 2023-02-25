@@ -15,6 +15,7 @@ descarga: https://ia803402.us.archive.org/25/items/cien-sonetos/Cien%20sonetos.p
 biblioteca: 
 comprar: 
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

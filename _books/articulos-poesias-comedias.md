@@ -15,6 +15,7 @@ descarga: https://ia801501.us.archive.org/8/items/artculospoesiasycomedias-texto
 biblioteca: http://www.worldcat.org/oclc/504615697
 comprar: 
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

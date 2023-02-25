@@ -15,6 +15,7 @@ tag: "Siglo XIX"
 biblioteca: http://www.worldcat.org/oclc/682849932
 comprar: https://amzn.to/3kNhGNG
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 MI MUSA

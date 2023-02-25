@@ -12,6 +12,7 @@ repurl: https://archive.org/details/toronto
 img: obras_escogidas_jose_eusebio_caro_Morel.jpg
 descarga: https://ia801401.us.archive.org/5/items/obras-escogidas-jose-eusebio-caro/Obras%20escogidas%20-%20Jos%C3%A9%20Eusebio%20Caro.pdf
 periodo: "Siglo XIX"
+genre: poetry
 biblioteca: http://www.worldcat.org/oclc/2958071
 comprar: 
 ---

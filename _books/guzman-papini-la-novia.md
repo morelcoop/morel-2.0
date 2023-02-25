@@ -14,6 +14,7 @@ descarga: https://ia601408.us.archive.org/22/items/guzman-papini-y-zas-la-novia-
 biblioteca: http://www.worldcat.org/oclc/680645478
 comprar: https://amzn.to/31eIUWa
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

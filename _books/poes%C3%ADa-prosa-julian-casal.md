@@ -14,6 +14,7 @@ descarga: https://ia601400.us.archive.org/33/items/casal-poesia-y-prosa/Casal_Po
 biblioteca: http://www.worldcat.org/oclc/608387644
 comprar: https://amzn.to/2I22JJ7
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

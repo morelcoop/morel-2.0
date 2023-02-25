@@ -14,6 +14,7 @@ epub: https://archive.org/download/pg55616-images/pg55616-images.epub
 biblioteca: http://www.worldcat.org/oclc/2934011
 comprar: https://amzn.to/3dU4uUi
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 Y suena esa divina musiquilla

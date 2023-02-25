@@ -14,6 +14,7 @@ descarga:  https://ia801400.us.archive.org/18/items/elias-regules-versos-criollo
 biblioteca: http://www.worldcat.org/oclc/1056257918
 comprar:
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

@@ -13,6 +13,7 @@ descarga: https://ia803109.us.archive.org/27/items/concherias/Concherias%20Compl
 biblioteca: http://www.worldcat.org/oclc/459290052
 comprar: https://amzn.to/31TfxaV
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

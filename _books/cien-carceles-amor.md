@@ -14,6 +14,7 @@ descarga: https://ia801502.us.archive.org/2/items/cien-carceles-de-amor-virginia
 biblioteca: http://www.worldcat.org/oclc/16856042
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

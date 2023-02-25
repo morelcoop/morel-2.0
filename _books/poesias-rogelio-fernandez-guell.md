@@ -14,6 +14,7 @@ descarga: https://ia801802.us.archive.org/3/items/poesias-rogelio-fernandez-guel
 biblioteca: http://www.worldcat.org/oclc/1084004232
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

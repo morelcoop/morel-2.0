@@ -14,6 +14,7 @@ descarga: https://ia801501.us.archive.org/29/items/poemas-sinfonicos-vargas-vila
 biblioteca: http://www.worldcat.org/oclc/1024808727
 comprar: https://amzn.to/3d6uPhO
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 Aún te veo, puesta en pie, cubrir tu

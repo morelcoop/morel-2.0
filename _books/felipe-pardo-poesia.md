@@ -14,6 +14,7 @@ descarga: https://ia601402.us.archive.org/15/items/poesias-felipe-pardo-y-aliaga
 biblioteca: http://www.worldcat.org/oclc/788260005
 comprar: https://amzn.to/32ryVvX
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

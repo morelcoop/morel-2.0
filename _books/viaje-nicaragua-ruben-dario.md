@@ -14,6 +14,7 @@ descarga: https://ia801801.us.archive.org/17/items/el-viaje-a-nicaragua/El%20via
 biblioteca: http://www.worldcat.org/oclc/54174832
 comprar: 
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

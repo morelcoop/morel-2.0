@@ -14,6 +14,7 @@ descarga: https://ia601001.us.archive.org/20/items/PoemasHumanos/Poemas-Humanos.
 biblioteca: http://www.worldcat.org/oclc/6112672
 comprar: https://amzn.to/2PWhJsI
 periodo: "Siglo XX"
+genre: poetry
 featured: false
 ---
  

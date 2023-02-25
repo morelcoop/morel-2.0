@@ -14,6 +14,7 @@ descarga: https://ia601502.us.archive.org/33/items/poesias-liricas-leonardo-eliz
 biblioteca: http://www.worldcat.org/oclc/1123782930
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

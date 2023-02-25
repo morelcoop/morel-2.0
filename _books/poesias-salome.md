@@ -14,6 +14,7 @@ descarga:  https://ia601408.us.archive.org/8/items/poesias-salome-urena/Poes%C3%
 biblioteca: http://www.worldcat.org/oclc/651336155
 comprar: https://amzn.to/3aZ7xsQ
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

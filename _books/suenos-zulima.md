@@ -14,6 +14,7 @@ descarga: https://ia601502.us.archive.org/19/items/los-suenos-de-zulima/Los%20su
 biblioteca: http://www.worldcat.org/oclc/1037870138
 comprar: https://amzn.to/3iGQO0H
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 Y es natural, mi vida se desliza 

@@ -14,6 +14,7 @@ descarga: https://ia601401.us.archive.org/0/items/misas-herejes-la-cancion-del-b
 biblioteca: http://www.worldcat.org/oclc/2963333
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

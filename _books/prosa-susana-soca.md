@@ -14,6 +14,7 @@ descarga: https://ia803407.us.archive.org/23/items/prosa-de-susana-soca/Prosa%20
 biblioteca: http://www.worldcat.org/oclc/912082607
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

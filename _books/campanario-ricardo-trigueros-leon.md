@@ -14,6 +14,7 @@ descarga: https://ia903403.us.archive.org/15/items/campanario-ricardo-trigueros-
 biblioteca: http://www.worldcat.org/oclc/254009421
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

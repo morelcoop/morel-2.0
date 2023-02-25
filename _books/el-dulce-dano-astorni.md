@@ -13,6 +13,7 @@ img: El_Dulce_Daño-Alfonsina_Storni_MOREL.jpg
 descarga: https://upload.wikimedia.org/wikipedia/commons/b/b4/El_Dulce_Da%C3%B1o_-_Alfonsina_Storni.pdf
 comprar: https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=morelcoop-20&keywords=alfonsina storni&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=39382dd9f7e1678050ab8f4b843a07d3
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

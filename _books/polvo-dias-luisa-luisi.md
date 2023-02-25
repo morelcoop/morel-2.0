@@ -15,6 +15,7 @@ descarga: https://ia801806.us.archive.org/18/items/luisa-luisi-polvo-de-dias/Lui
 biblioteca: http://www.worldcat.org/oclc/682839308
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

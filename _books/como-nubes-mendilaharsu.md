@@ -12,6 +12,7 @@ repurl: http://bibliotecadigitalhispanica.bne.es/
 img: como_las_nubes_mendilaharsu_Morel.jpg
 descarga: https://ia601800.us.archive.org/33/items/comolasnubes-textoimpresopoesias/ComolasnubesTextoimpresopoesias.pdf
 periodo: "Siglo XX"
+genre: poetry
 biblioteca: http://www.worldcat.org/oclc/733564215
 comprar: 
 ---

@@ -13,6 +13,7 @@ repurl: https://archive.org/details/autores
 img: polirritmos_Morel.jpg
 descarga: https://ia801404.us.archive.org/24/items/parradel-riego-j-polirritmos/ParradelRiegoJ_Polirritmos.pdf
 periodo: "Siglo XX"
+genre: poetry
 biblioteca: http://www.worldcat.org/oclc/1124006317
 comprar: 
 ---

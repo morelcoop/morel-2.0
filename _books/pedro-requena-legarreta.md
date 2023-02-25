@@ -13,6 +13,7 @@ repurl: http://www.iberoamericadigital.net/es/Inicio/
 img: antologia_pedro_requena_legarreta.jpg
 descarga: https://ia801805.us.archive.org/30/items/poesia-requena-legarreta-pedro/Poes%C3%ADa%20-%20Requena%20Legarreta%2C%20Pedro.pdf
 periodo: "Siglo XX"
+genre: poetry
 biblioteca: 
 comprar: 
 ---

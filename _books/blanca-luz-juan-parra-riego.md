@@ -13,6 +13,7 @@ repurl: http://www.iberoamericadigital.net/es/Inicio/
 img: blanca_luz_juan_parra_riego.jpg
 descarga: https://ia803403.us.archive.org/19/items/blanca-luz-texto-impreso-poemas/Blanca_Luz_Texto_impreso_poemas.pdf
 periodo: "Siglo XIX"
+genre: poetry
 biblioteca: http://www.worldcat.org/oclc/461795257
 comprar: 
 ---

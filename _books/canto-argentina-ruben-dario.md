@@ -14,6 +14,7 @@ descarga: https://ia803404.us.archive.org/0/items/canto-a-la-argentina-oda-a-mit
 biblioteca: http://www.worldcat.org/oclc/1032774045
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

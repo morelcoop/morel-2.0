@@ -14,6 +14,7 @@ descarga: https://ia601400.us.archive.org/10/items/obras-poeticas-de-d.-jose-joa
 biblioteca: http://www.worldcat.org/oclc/15107247
 comprar: 
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

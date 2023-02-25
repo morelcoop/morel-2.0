@@ -14,6 +14,7 @@ descarga: https://ia801502.us.archive.org/13/items/la-araucana-iv-don-alonso-de-
 biblioteca: http://www.worldcat.org/oclc/29734304
 comprar: https://amzn.to/3no9moj
 periodo: "Colonial"
+genre: poetry
 ---					
  
 

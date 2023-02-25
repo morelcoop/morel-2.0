@@ -15,6 +15,7 @@ descarga: https://ia801502.us.archive.org/34/items/castalia-barbara-pais-de-suen
 biblioteca: http://www.worldcat.org/oclc/949858329
 comprar: https://amzn.to/374MHYO
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

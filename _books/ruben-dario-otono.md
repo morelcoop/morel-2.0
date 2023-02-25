@@ -14,6 +14,7 @@ descarga: https://ia801806.us.archive.org/23/items/pg51569-images/pg51569-images
 biblioteca: http://www.worldcat.org/oclc/2923746
 comprar:
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

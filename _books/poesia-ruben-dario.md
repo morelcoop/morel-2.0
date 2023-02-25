@@ -13,6 +13,7 @@ descarga: https://ia601409.us.archive.org/15/items/poesia-ruben-dario-1/Poesia_R
 biblioteca: http://www.worldcat.org/oclc/489813022
 comprar: https://amzn.to/30UanMy
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

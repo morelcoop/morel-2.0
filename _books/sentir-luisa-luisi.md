@@ -12,6 +12,7 @@ repurl: https://autores.uy/
 img: sentir_luisa_luisi_Morel.jpg
 descarga: https://ia803409.us.archive.org/8/items/luisa-luisi-sentir.../Luisa%20Luisi%20-%20Sentir....pdf
 periodo: "Siglo XX"
+genre: poetry
 biblioteca: http://www.worldcat.org/oclc/1672718
 comprar: 
 ---

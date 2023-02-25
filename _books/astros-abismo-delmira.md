@@ -14,6 +14,7 @@ descarga: https://ia601407.us.archive.org/7/items/los-astros-del-abismo-delmira-
 biblioteca: http://www.worldcat.org/oclc/631022070
 comprar: https://amzn.to/2FyL623
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 Bajo los grandes cielos 

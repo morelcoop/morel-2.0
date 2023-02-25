@@ -15,6 +15,7 @@ descarga: https://ia801408.us.archive.org/35/items/horno-jose-de-la-cuadra/Horno
 biblioteca: http://www.worldcat.org/oclc/470175159
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

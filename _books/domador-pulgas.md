@@ -14,6 +14,7 @@ descarga: https://ia601509.us.archive.org/17/items/el-domador-de-pulgas/El%20dom
 biblioteca: http://www.worldcat.org/oclc/3175270
 comprar: https://amzn.to/3mZVlxS
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

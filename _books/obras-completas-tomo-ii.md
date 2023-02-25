@@ -14,6 +14,7 @@ descarga: https://ia601509.us.archive.org/35/items/obras-completas-de-don-andres
 biblioteca: http://www.worldcat.org/oclc/488513072
 comprar: 
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

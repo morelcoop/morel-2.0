@@ -15,6 +15,7 @@ descarga: https://ia803404.us.archive.org/20/items/la-gruta-del-silencio-vicente
 biblioteca: http://www.worldcat.org/oclc/18321023
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

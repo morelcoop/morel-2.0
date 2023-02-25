@@ -14,6 +14,7 @@ descarga: https://ia801501.us.archive.org/25/items/sub-terra_202102/Sub%20terra.
 biblioteca: http://www.worldcat.org/oclc/457446686
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

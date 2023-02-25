@@ -12,6 +12,7 @@ repurl: https://archive.org/details/toronto
 img: Poesias completas - Jorge Isaacs.jpg
 descarga: https://ia801403.us.archive.org/2/items/poesias-completas-jorge-isaacs/Poesias%20completas%20-%20Jorge%20Isaacs.pdf
 periodo: "Siglo XIX"
+genre: poetry
 biblioteca: http://www.worldcat.org/oclc/3231619
 comprar: 
 ---

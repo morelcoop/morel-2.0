@@ -12,6 +12,7 @@ repurl: http://bibliotecadigitalhispanica.bne.es/
 img: cantos_tarde_juan_clemente_zenea_Morel.jpg
 descarga: https://ia803409.us.archive.org/19/items/cantos-de-la-tarde-juan-clemente-zenea/Cantos%20de%20la%20tarde%20-%20Juan%20Clemente%20Zenea.pdf
 periodo: "Siglo XIX"
+genre: poetry
 biblioteca: 
 comprar: 
 ---

@@ -12,6 +12,7 @@ repurl: https://autores.uy/
 img: susana_soca-en_un_pais_de_la_memoria.jpg
 descarga: https://ia801801.us.archive.org/4/items/susana_soca_-_en_un_pais_de_la_memoria/susana_soca_-_en_un_pais_de_la_memoria.pdf
 periodo: "Siglo XX"
+genre: poetry
 biblioteca: 
 comprar: 
 ---

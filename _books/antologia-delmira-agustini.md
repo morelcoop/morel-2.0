@@ -14,6 +14,7 @@ descarga: https://ia601508.us.archive.org/6/items/antologia-delmira-agustini/Ant
 biblioteca: http://www.worldcat.org/oclc/1087070733
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

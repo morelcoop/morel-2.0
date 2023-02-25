@@ -14,6 +14,7 @@ descarga: https://ia803407.us.archive.org/1/items/sonetos-mera/Sonetos%20-%20Mer
 biblioteca: http://www.worldcat.org/oclc/432632360
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

@@ -12,6 +12,7 @@ repurl: https://archive.org/details/robarts
 img: mundo_sueños_ruben_dario.jpg
 descarga: https://ia801806.us.archive.org/1/items/el-mundo-de-los-suenos-prosas-postumas/El%20mundo%20de%20los%20sue%C3%B1os%2C%20prosas%20p%C3%B3stumas.pdf
 periodo: "Siglo XX"
+genre: poetry
 biblioteca: http://www.worldcat.org/oclc/559101205
 comprar: 
 ---

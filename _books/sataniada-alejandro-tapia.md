@@ -14,6 +14,7 @@ descarga: https://ia601401.us.archive.org/9/items/la-sataniada/La%20Sataniada.pd
 biblioteca: http://www.worldcat.org/oclc/731003955
 comprar: https://amzn.to/2QT7pSI
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 "Me llamo Lucifer," exclamó luego

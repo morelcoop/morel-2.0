@@ -15,6 +15,7 @@ descarga: https://ia801407.us.archive.org/35/items/rimas-bartolome-mitre/Rimas%2
 biblioteca: http://www.worldcat.org/oclc/18320230
 comprar: https://amzn.to/2JH55O9
 periodo: "Siglo XIX"
+genre: poetry
 feature: true
 ---
  

@@ -13,6 +13,7 @@ repurl: http://www.redicces.org.sv/jspui/
 img: celajes_cordillera_salvador_ricardo_merlos_Morel.jpg
 descarga: https://ia801804.us.archive.org/19/items/celajes-de-la-cordillera-salvador-ricardo-merlos/Celajes%20de%20la%20Cordillera%20-%20Salvador%20Ricardo%20Merlos.pdf
 periodo: "Siglo XX"
+genre: poetry
 biblioteca: 
 comprar: 
 ---

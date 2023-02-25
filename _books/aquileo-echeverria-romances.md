@@ -14,6 +14,7 @@ descarga: https://ia601405.us.archive.org/22/items/romances-textoimpreso/Romance
 biblioteca: http://www.worldcat.org/oclc/431779378
 comprar: https://amzn.to/3dLhqfe
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 Una espalda tentadora, 

@@ -14,6 +14,7 @@ descarga: https://ia601505.us.archive.org/32/items/poemas-helenicos/Poemas%20hel
 biblioteca: http://www.worldcat.org/oclc/733614575
 comprar: 
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

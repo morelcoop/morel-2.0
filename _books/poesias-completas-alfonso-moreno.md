@@ -14,6 +14,7 @@ descarga: https://ia601403.us.archive.org/22/items/poesias-completas-alfonso-mor
 biblioteca: http://www.worldcat.org/oclc/1025930245
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 featured: false
 ---
  

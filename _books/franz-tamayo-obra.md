@@ -14,6 +14,7 @@ descarga: https://ia601504.us.archive.org/32/items/obra-escogida-franz-tamayo/Ob
 biblioteca: http://www.worldcat.org/oclc/848507880
 comprar: https://amzn.to/3dht3uc
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 He aquí de nuevo el día

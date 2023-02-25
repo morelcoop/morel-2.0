@@ -14,6 +14,7 @@ descarga: https://ia801503.us.archive.org/27/items/rosas-de-otono-moscoso_202008
 biblioteca: http://www.worldcat.org/oclc/829247369
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

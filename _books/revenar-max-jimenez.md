@@ -14,6 +14,7 @@ descarga: https://ia601407.us.archive.org/19/items/renevar-max-jimenez/Renevar%2
 biblioteca: http://www.worldcat.org/oclc/4944592
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

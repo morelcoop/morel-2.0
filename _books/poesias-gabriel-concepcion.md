@@ -14,6 +14,7 @@ descarga: https://ia601509.us.archive.org/19/items/poesias-completas-gabriel-de-
 biblioteca: http://www.worldcat.org/oclc/489800126
 comprar: https://amzn.to/32WIALj
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

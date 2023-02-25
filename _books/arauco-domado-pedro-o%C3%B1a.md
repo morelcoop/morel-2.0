@@ -14,6 +14,7 @@ descarga: https://ia601502.us.archive.org/6/items/arauco-domado/Arauco%20domado.
 biblioteca: http://www.worldcat.org/oclc/222782813
 comprar: http://www.worldcat.org/oclc/899071953
 periodo: "Colonial"
+genre: poetry
 ---
  
 

@@ -15,6 +15,7 @@ descarga: https://ia601409.us.archive.org/29/items/popol-vuh_202009/Popol_Vuh.pd
 biblioteca: http://www.worldcat.org/oclc/2175747
 comprar: https://amzn.to/32SYA0J
 periodo: "Colonial"
+genre: poetry
 ---
  
 

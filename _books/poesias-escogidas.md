@@ -14,6 +14,7 @@ descarga: https://ia801402.us.archive.org/6/items/poesias-escogidas-guillermo-pr
 biblioteca: http://www.worldcat.org/oclc/596255770
 comprar: https://amzn.to/3gfDHDj
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

@@ -14,6 +14,7 @@ descarga: https://ia601407.us.archive.org/5/items/versos-apenas-versos/Versos%2C
 biblioteca: http://www.worldcat.org/oclc/19676750
 comprar: https://amzn.to/3iW014U
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

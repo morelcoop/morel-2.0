@@ -14,6 +14,7 @@ descarga: https://ia801502.us.archive.org/9/items/vallejo-espana-aparta-de-mi-es
 biblioteca: http://www.worldcat.org/oclc/1105260084
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

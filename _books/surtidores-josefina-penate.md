@@ -14,6 +14,7 @@ descarga: https://ia601505.us.archive.org/23/items/surtidores-josefina-penate-he
 biblioteca: 
 comprar:
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 EL CALENDARIO

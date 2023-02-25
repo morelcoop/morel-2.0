@@ -15,6 +15,7 @@ descarga: https://ia801408.us.archive.org/9/items/obras-selectas-sor-juana-ines-
 biblioteca: http://www.worldcat.org/oclc/3807267
 comprar: https://amzn.to/3gefuxa
 periodo: "Colonial"
+genre: poetry
 ---
  
 

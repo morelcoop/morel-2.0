@@ -56,6 +56,10 @@ a {
   font-weight: 500;
   transition: all 1s ease; }
 
+  a.overlay-link {
+    color: var(--background);
+  }
+
 .ficha-metadata a {
   color: var(--color-1);
   font-weight: 700;

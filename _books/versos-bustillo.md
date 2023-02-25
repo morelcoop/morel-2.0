@@ -14,6 +14,7 @@ descarga: https://ia801506.us.archive.org/21/items/versos-jose-maria-bustillos/V
 biblioteca: http://www.worldcat.org/oclc/949300754
 comprar: https://amzn.to/33IcAuA
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 Siempre ansioso de gozar,

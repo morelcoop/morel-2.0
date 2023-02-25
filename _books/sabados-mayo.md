@@ -15,6 +15,7 @@ descarga: https://ia803409.us.archive.org/0/items/fr-1-l-000490-moreno-sabados/F
 biblioteca: http://www.worldcat.org/oclc/912554317
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

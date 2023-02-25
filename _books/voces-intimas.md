@@ -14,6 +14,7 @@ descarga: https://ia601408.us.archive.org/11/items/voces-intimas-cevallos/Voces%
 biblioteca: http://www.worldcat.org/oclc/4670956
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

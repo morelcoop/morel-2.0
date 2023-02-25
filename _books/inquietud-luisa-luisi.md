@@ -14,6 +14,7 @@ descarga: https://ia903401.us.archive.org/24/items/luisa-luisi-inquietud-pages-d
 biblioteca: http://www.worldcat.org/oclc/780188695
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

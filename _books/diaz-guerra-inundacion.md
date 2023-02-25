@@ -14,6 +14,7 @@ descarga: https://ia601404.us.archive.org/14/items/la-inundacion/La%20inundaci%C
 biblioteca: http://www.worldcat.org/oclc/25820122
 comprar: https://amzn.to/3getiWN
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

@@ -14,6 +14,7 @@ descarga: https://ia601400.us.archive.org/1/items/poesias-de-manuel-gutierrez-na
 biblioteca: http://www.worldcat.org/oclc/880126933
 comprar: https://amzn.to/32mliib
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

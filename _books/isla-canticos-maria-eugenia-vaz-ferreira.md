@@ -14,6 +14,7 @@ descarga: https://ia801506.us.archive.org/3/items/la-isla-de-los-canticos-maria-
 biblioteca: http://www.worldcat.org/oclc/1024804192
 comprar: 
 periodo: "Siglo XX"
+genre: poetry
 ---
  
 

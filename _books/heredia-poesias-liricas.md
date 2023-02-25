@@ -15,6 +15,7 @@ descarga: https://ia601400.us.archive.org/9/items/poesias-liricas-jose-maria-her
 biblioteca: http://www.worldcat.org/oclc/457863112
 comprar: https://amzn.to/31YsfoT
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

@@ -12,6 +12,7 @@ repurl: http://www.iberoamericadigital.net/es/Inicio/
 img: golgota_granado_Felix_Morel.jpg
 descarga: https://ia803407.us.archive.org/10/items/el-golgota-ensayo-poetico/El%20Golgota%2C%20ensayo%20po%C3%A9tico.pdf
 periodo: "Siglo XIX"
+genre: poetry
 biblioteca: 
 comprar: 
 ---

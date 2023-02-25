@@ -14,6 +14,7 @@ descarga: https://ia801400.us.archive.org/33/items/nieve-julian-del-casal/Nieve%
 biblioteca: http://www.worldcat.org/oclc/970573688
 comprar: 
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

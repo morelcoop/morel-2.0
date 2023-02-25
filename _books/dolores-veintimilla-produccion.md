@@ -14,6 +14,7 @@ descarga: https://ia601500.us.archive.org/24/items/producciones-literarias-dolor
 biblioteca: http://www.worldcat.org/oclc/25545283
 comprar: 
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 

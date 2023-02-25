@@ -14,6 +14,7 @@ descarga: https://ia801500.us.archive.org/10/items/canto-a-bolivar-j.-j.-olmedo/
 biblioteca: http://www.worldcat.org/oclc/257529271
 comprar: https://amzn.to/2SL8zk6
 periodo: "Siglo XIX"
+genre: poetry
 ---
  
 LAS musas y las artes revolando
